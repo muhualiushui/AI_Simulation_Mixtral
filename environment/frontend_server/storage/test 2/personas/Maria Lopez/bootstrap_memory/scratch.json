@@ -1,0 +1,199 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:00:00",
+  "curr_tile": [
+    123,
+    57
+  ],
+  "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am",
+    "study for her physics degree until 12:00 pm",
+    "take a break and have lunch at 12:00 pm",
+    "spend 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "studying for her physics degree.\n[(ID:2vNqU4) Monday February 13 -- 10:00 AM] Activity: Maria takes a break and has lunch at Hobbs Cafe.\n[(ID:6mUHHs) Monday February 13 -- 11:00 AM] Activity: Maria is streaming games on Twitch.\n[(ID:tTnSWw) Monday February 13 -- 2:00 PM] Activity: Maria continues streaming games on Twitch.\n[(ID:uPh0sW) Monday February 13 -- 5:00 PM] Activity: Maria takes a break and goes home to rest.\n[(ID:lqR4ZK) Monday February 13 -- 7:00 PM] Activity: Maria is streaming games on Twitch.\n[(ID:Z6vZaJ) Monday February 13 -- 10:00 PM] Activity: Maria finishes streaming and goes to bed.\nHowever, it appears that there was a mistake in the schedule and Maria did not spend 3 hours streaming games on Twitch as planned (studying for her physics degree)",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 08:00 AM] Activity: Maria is studying for her physics degree.\n[Monday February 13 -- 12:00 PM] Activity: Maria takes a break and has lunch at Hobbs Cafe.\n[Monday February 13 -- 03:00 PM] Activity: Maria spends 3 hours streaming games on Twitch.\n[Monday February 13 -- 6:00 PM] Activity: Maria finishes streaming and goes to bed.\n\nThe originally intended hourly breakdown of Maria's schedule today:\n\n* Wake up and complete morning routine at 9:00 am\n* Study for physics degree until 12:00 pm\n* Take a break and have lunch at 12:00 pm\n* Spend 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm\n\nIt appears that there was a mistake in the schedule and Maria did not spend 3 hours streaming games on Twitch as planned",
+      60
+    ],
+    [
+      "This hourly schedule shows that Maria Lopez, a 21-year-old student studying physics and a part-time Twitch streamer, will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will still be sleeping.\n* From 3:00 AM to 4:00 AM: Maria will be sleeping.\n* From 4:00 AM to 5:00 AM: Maria will continue sleeping.\n* From 5:00 AM to 6:00 AM: Maria will be sleeping.\n* From 6:00 AM to 7:00 AM: Maria will sleep some more.\n* From 7:00 AM to 8:00 AM: Maria will study for her physics degree.\n* From 8:00 AM to 9:00 AM: Maria will take a break and have breakfast at Hobbs Cafe.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 11:00 AM: Maria will take a break and visit Hobbs Cafe again.\n* From 11:00 AM to 12:00 PM: Maria will spend time streaming games on Twitch.\n* From 12:00 PM to 1:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 1:00 PM to 4:00 PM: Maria will continue streaming games on Twitch.\n* From 4:00 PM to 5:00 PM: Maria will rest before her evening activities.\n* From 5:00 PM to 7:00 PM: Maria will spend time streaming games on Twitch again.\n* From 7:00 PM to 9:00 PM: Maria will finish streaming and go to bed",
+      60
+    ],
+    [
+      "It looks like there might be a mistake in the schedule for Monday, February 13th. The original schedule had Maria spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule. It's possible that these activities were misplaced or accidentally left out of the original schedule.\nIt would be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule",
+      60
+    ],
+    [
+      "It looks like there was a mistake in the schedule for Maria Lopez on Monday, February 13th. The original schedule had her spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule.\n\nIt would be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is also important to make sure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming",
+      60
+    ],
+    [
+      "It seems like there was a mistake in the schedule for Maria Lopez on Monday, February 13th. The original schedule had her spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule.\n\nTo fix this, you can adjust Maria's schedule to ensure she spends at least 3 hours streaming or gaming each day. You can also add in specific times for taking breaks and visiting Hobbs Cafe if those activities are important to her daily routine. It may also be helpful to have more context about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule",
+      60
+    ],
+    [
+      "I have the schedule for Maria Lopez for Monday, February 13th",
+      60
+    ],
+    [
+      "Monday February 13 - Hourly schedule breakdown for Maria Lopez:\r\n\r\n9:00 AM: Wake up and complete morning routine\r\n10:00 AM: Study for physics degree\r\n12:00 PM: Take a break and have lunch at Hobbs Cafe\r\n3:00 PM: Start streaming games on Twitch\r\n6:00 PM: Finish streaming games on Twitch\r\n7:00 PM: Rest before evening activities\r\n8:00 PM: Spend time streaming games on Twitch again\r\n11:00 PM: Go to bed after finishing streaming. \r\n\r\nNote: The original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to make sure Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming",
+      60
+    ],
+    [
+      "Based on the information provided, it appears that Maria Lopez has a busy schedule for Monday, February 13th. She will spend most of her day studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nThe original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to make sure Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "The hourly schedule shows that Maria Lopez will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will sleep some more.\n* From 3:00 AM to 4:00 AM: Maria will be studying for her physics degree.\n* From 4:00 AM to 5:00 AM: Maria will continue studying and take a break if necessary.\n* From 5:00 AM to 6:00 AM: Maria will sleep some more before starting her day.\n* From 6:00 AM to 7:00 AM: Maria will have breakfast and get ready for the day.\n* From 7:00 AM to 8:00 AM: Maria will attend class or complete other school-related tasks.\n* From 8:00 AM to 9:00 AM: Maria will have a break or spend time with friends.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 12:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 12:00 PM to 3:00 PM: Maria will spend time streaming games on Twitch.\n* From 3:00 PM to 6:00 PM: Maria will attend extracurricular activities or hang out with friends.\n* From 6:00 PM to 7:00 PM: Maria will have dinner and relax before her evening activities.\n* From 7:00 PM to 10:00 PM: Maria will spend time streaming games on Twitch again.\n* From 10:00 PM to 12:00 AM: Maria will finish streaming and go to bed.\n\nIt is important to note that this schedule is just an example and may not reflect Maria's actual daily routine. To ensure she is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming, it is recommended to have specific times for these activities in her schedule each day. Additionally, it may be helpful to include time for breaks and other activities that are important to her daily routine",
+      60
+    ],
+    [
+      "Based on the information provided, it seems that there might be some confusion or errors in Maria's schedule. It appears that she has a busy day planned, with most of her time dedicated to studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nThe original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it seems that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "I apologize for any confusion, but it looks like there was a mistake in the original schedule. The schedule shows that Maria Lopez will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will sleep some more.\n* From 3:00 AM to 4:00 AM: Maria will be studying for her physics degree.\n* From 4:00 AM to 5:00 AM: Maria will continue studying and take a break if necessary.\n* From 5:00 AM to 6:00 AM: Maria will sleep some more before starting her day.\n* From 6:00 AM to 7:00 AM: Maria will have breakfast and get ready for the day.\n* From 7:00 AM to 8:00 AM: Maria will attend class or complete other school-related tasks.\n* From 8:00 AM to 9:00 AM: Maria will have a break or spend time with friends.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 12:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 12:00 PM to 3:00 PM: Maria will spend time streaming games on Twitch.\n* From 3:00 PM to 6:00 PM: Maria will attend extracurricular activities or hang out with friends.\n* From 6:00 PM to 7:00 PM: Maria will have dinner and relax before her evening activities.\n* From 7:00 PM to 10:00 PM: Maria will spend time streaming games on Twitch again.\n* From 10:00 PM to 12:00 AM: Maria will finish streaming and go to bed.\n\nIt appears that there was a mistake in the schedule, as it shows that Maria spent 3 hours streaming games from 3:00 pm to 6:00 pm. However, based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends",
+      60
+    ],
+    [
+      "It appears that you are providing a list of activities for Maria's schedule on Monday, February 13th. However, the information provided does not include any specific times or duration for each activity. To ensure that Maria meets her daily plan requirement of spending at least 3 hours streaming or gaming and has a balanced schedule, it may be helpful to provide more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to her schedule. It is also important to note that this is just an example schedule and may not reflect Maria's actual daily routine",
+      60
+    ],
+    [
+      "Based on the schedule provided, it looks like Maria has a busy day planned. She will spend most of her time studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nIt seems that there was a mistake in the schedule, as it shows that Maria spent 3 hours streaming games from 3:00 pm to 6:00 pm. Based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day.\n\nAdditionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming. You can add specific times for these activities in her schedule each day.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "It seems that the original schedule provided for Maria Lopez's day on Monday, February 13th, has some discrepancies. The hourly breakdown of her schedule shows that she is expected to spend 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm. However, based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day.\n\nAdditionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming. You can add specific times for these activities in her schedule each day.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "studying for her physics degree.\n[(ID:2vNqU4) Monday February 13 -- 10:00 AM] Activity: Maria takes a break and has lunch at Hobbs Cafe.\n[(ID:6mUHHs) Monday February 13 -- 11:00 AM] Activity: Maria is streaming games on Twitch.\n[(ID:tTnSWw) Monday February 13 -- 2:00 PM] Activity: Maria continues streaming games on Twitch.\n[(ID:uPh0sW) Monday February 13 -- 5:00 PM] Activity: Maria takes a break and goes home to rest.\n[(ID:lqR4ZK) Monday February 13 -- 7:00 PM] Activity: Maria is streaming games on Twitch.\n[(ID:Z6vZaJ) Monday February 13 -- 10:00 PM] Activity: Maria finishes streaming and goes to bed.\nHowever, it appears that there was a mistake in the schedule and Maria did not spend 3 hours streaming games on Twitch as planned",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Maria is sleeping\n[Monday February 13 -- 08:00 AM] Activity: Maria is studying for her physics degree.\n[Monday February 13 -- 12:00 PM] Activity: Maria takes a break and has lunch at Hobbs Cafe.\n[Monday February 13 -- 03:00 PM] Activity: Maria spends 3 hours streaming games on Twitch.\n[Monday February 13 -- 6:00 PM] Activity: Maria finishes streaming and goes to bed.\n\nThe originally intended hourly breakdown of Maria's schedule today:\n\n* Wake up and complete morning routine at 9:00 am\n* Study for physics degree until 12:00 pm\n* Take a break and have lunch at 12:00 pm\n* Spend 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm\n\nIt appears that there was a mistake in the schedule and Maria did not spend 3 hours streaming games on Twitch as planned",
+      60
+    ],
+    [
+      "This hourly schedule shows that Maria Lopez, a 21-year-old student studying physics and a part-time Twitch streamer, will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will still be sleeping.\n* From 3:00 AM to 4:00 AM: Maria will be sleeping.\n* From 4:00 AM to 5:00 AM: Maria will continue sleeping.\n* From 5:00 AM to 6:00 AM: Maria will be sleeping.\n* From 6:00 AM to 7:00 AM: Maria will sleep some more.\n* From 7:00 AM to 8:00 AM: Maria will study for her physics degree.\n* From 8:00 AM to 9:00 AM: Maria will take a break and have breakfast at Hobbs Cafe.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 11:00 AM: Maria will take a break and visit Hobbs Cafe again.\n* From 11:00 AM to 12:00 PM: Maria will spend time streaming games on Twitch.\n* From 12:00 PM to 1:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 1:00 PM to 4:00 PM: Maria will continue streaming games on Twitch.\n* From 4:00 PM to 5:00 PM: Maria will rest before her evening activities.\n* From 5:00 PM to 7:00 PM: Maria will spend time streaming games on Twitch again.\n* From 7:00 PM to 9:00 PM: Maria will finish streaming and go to bed",
+      60
+    ],
+    [
+      "It looks like there might be a mistake in the schedule for Monday, February 13th. The original schedule had Maria spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule. It's possible that these activities were misplaced or accidentally left out of the original schedule.\nIt would be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule",
+      60
+    ],
+    [
+      "It looks like there was a mistake in the schedule for Maria Lopez on Monday, February 13th. The original schedule had her spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule.\n\nIt would be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is also important to make sure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming",
+      60
+    ],
+    [
+      "It seems like there was a mistake in the schedule for Maria Lopez on Monday, February 13th. The original schedule had her spending 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. Additionally, there are some activities listed that do not match the hourly breakdown of her schedule.\n\nTo fix this, you can adjust Maria's schedule to ensure she spends at least 3 hours streaming or gaming each day. You can also add in specific times for taking breaks and visiting Hobbs Cafe if those activities are important to her daily routine. It may also be helpful to have more context about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule",
+      60
+    ],
+    [
+      "I have the schedule for Maria Lopez for Monday, February 13th",
+      60
+    ],
+    [
+      "Monday February 13 - Hourly schedule breakdown for Maria Lopez:\r\n\r\n9:00 AM: Wake up and complete morning routine\r\n10:00 AM: Study for physics degree\r\n12:00 PM: Take a break and have lunch at Hobbs Cafe\r\n3:00 PM: Start streaming games on Twitch\r\n6:00 PM: Finish streaming games on Twitch\r\n7:00 PM: Rest before evening activities\r\n8:00 PM: Spend time streaming games on Twitch again\r\n11:00 PM: Go to bed after finishing streaming. \r\n\r\nNote: The original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to make sure Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming",
+      60
+    ],
+    [
+      "Based on the information provided, it appears that Maria Lopez has a busy schedule for Monday, February 13th. She will spend most of her day studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nThe original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it appears that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to make sure Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "The hourly schedule shows that Maria Lopez will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will sleep some more.\n* From 3:00 AM to 4:00 AM: Maria will be studying for her physics degree.\n* From 4:00 AM to 5:00 AM: Maria will continue studying and take a break if necessary.\n* From 5:00 AM to 6:00 AM: Maria will sleep some more before starting her day.\n* From 6:00 AM to 7:00 AM: Maria will have breakfast and get ready for the day.\n* From 7:00 AM to 8:00 AM: Maria will attend class or complete other school-related tasks.\n* From 8:00 AM to 9:00 AM: Maria will have a break or spend time with friends.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 12:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 12:00 PM to 3:00 PM: Maria will spend time streaming games on Twitch.\n* From 3:00 PM to 6:00 PM: Maria will attend extracurricular activities or hang out with friends.\n* From 6:00 PM to 7:00 PM: Maria will have dinner and relax before her evening activities.\n* From 7:00 PM to 10:00 PM: Maria will spend time streaming games on Twitch again.\n* From 10:00 PM to 12:00 AM: Maria will finish streaming and go to bed.\n\nIt is important to note that this schedule is just an example and may not reflect Maria's actual daily routine. To ensure she is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming, it is recommended to have specific times for these activities in her schedule each day. Additionally, it may be helpful to include time for breaks and other activities that are important to her daily routine",
+      60
+    ],
+    [
+      "Based on the information provided, it seems that there might be some confusion or errors in Maria's schedule. It appears that she has a busy day planned, with most of her time dedicated to studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nThe original schedule had Maria spending 3 hours streaming games from 3:00 pm to 6:00 pm, but it seems that she did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "I apologize for any confusion, but it looks like there was a mistake in the original schedule. The schedule shows that Maria Lopez will spend her day as follows:\n\n* From midnight to 1:00 AM: Maria will be sleeping.\n* From 1:00 AM to 2:00 AM: Maria will continue sleeping.\n* From 2:00 AM to 3:00 AM: Maria will sleep some more.\n* From 3:00 AM to 4:00 AM: Maria will be studying for her physics degree.\n* From 4:00 AM to 5:00 AM: Maria will continue studying and take a break if necessary.\n* From 5:00 AM to 6:00 AM: Maria will sleep some more before starting her day.\n* From 6:00 AM to 7:00 AM: Maria will have breakfast and get ready for the day.\n* From 7:00 AM to 8:00 AM: Maria will attend class or complete other school-related tasks.\n* From 8:00 AM to 9:00 AM: Maria will have a break or spend time with friends.\n* From 9:00 AM to 10:00 AM: Maria will continue studying for her physics degree.\n* From 10:00 AM to 12:00 PM: Maria will take a break and have lunch at Hobbs Cafe.\n* From 12:00 PM to 3:00 PM: Maria will spend time streaming games on Twitch.\n* From 3:00 PM to 6:00 PM: Maria will attend extracurricular activities or hang out with friends.\n* From 6:00 PM to 7:00 PM: Maria will have dinner and relax before her evening activities.\n* From 7:00 PM to 10:00 PM: Maria will spend time streaming games on Twitch again.\n* From 10:00 PM to 12:00 AM: Maria will finish streaming and go to bed.\n\nIt appears that there was a mistake in the schedule, as it shows that Maria spent 3 hours streaming games from 3:00 pm to 6:00 pm. However, based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day. Additionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends",
+      60
+    ],
+    [
+      "It appears that you are providing a list of activities for Maria's schedule on Monday, February 13th. However, the information provided does not include any specific times or duration for each activity. To ensure that Maria meets her daily plan requirement of spending at least 3 hours streaming or gaming and has a balanced schedule, it may be helpful to provide more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to her schedule. It is also important to note that this is just an example schedule and may not reflect Maria's actual daily routine",
+      60
+    ],
+    [
+      "Based on the schedule provided, it looks like Maria has a busy day planned. She will spend most of her time studying for her physics degree and streaming games on Twitch. However, there are some discrepancies in her schedule that need to be addressed.\n\nIt seems that there was a mistake in the schedule, as it shows that Maria spent 3 hours streaming games from 3:00 pm to 6:00 pm. Based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day.\n\nAdditionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming. You can add specific times for these activities in her schedule each day.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ],
+    [
+      "It seems that the original schedule provided for Maria Lopez's day on Monday, February 13th, has some discrepancies. The hourly breakdown of her schedule shows that she is expected to spend 3 hours streaming games on Twitch from 3:00 pm to 6:00 pm. However, based on the information provided earlier, it seems that Maria did not spend that amount of time streaming as planned. To fix this, you can adjust her schedule and have her spend more time streaming each day.\n\nAdditionally, it is important to ensure that Maria is meeting her daily plan requirement of spending at least 3 hours a day streaming or gaming. You can add specific times for these activities in her schedule each day.\n\nIt would also be helpful to have more context or information about what was supposed to happen during those hours in order to make any necessary adjustments or corrections to Maria's schedule. It is not clear whether the 3 hours of streaming were meant to be consecutive or if they could include breaks for other activities such as going to the gym or spending time with friends.\n\nOverall, it seems that Maria has a productive and balanced schedule for Monday, February 13th. With some adjustments to ensure she is meeting her daily plan requirement and some additional context about what was supposed to happen during those hours, her schedule can be further optimized to help her achieve her goals",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 540,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83c\udfc3\u200d\u2642",
+  "act_event": [
+    "Maria Lopez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "using",
+  "act_obj_pronunciatio": "\ud83c\udfad",
+  "act_obj_event": [
+    "bed",
+    "I am sorry",
+    "but it seems like the input you provided is incomplete. The last sentence \"bed is using\" does not have a subject and predicate to complete the structure of a sentence. Could you please provide a complete sentence or clarify what information you would like me to extract?"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,204 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:00:00",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "working at Hobbs Cafe until she closes the cafe at 8pm.\n\nLet's fill in the activities for Isabella's schedule today:\n\n* Monday, February 13th - 5:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 5:00 AM: Wake up and complete morning routine\n* Monday, February 13th - 6:00 AM to 7:00 AM: Prepare for the day, gather party materials, etc.\n* Monday, February 13th - 7:00 AM to 8:00 AM: Open Hobbs Cafe and start serving customers\n* Monday, February 13th - 8:00 AM to 5:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins\n* Monday, February 13th - 5:00 PM to 7:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 8:00 PM: Close Hobbs Cafe for the day\n* Monday, February 13th - 9:00 PM to 11:00 PM: Wind down and relax after the Valentine's Day party\n* Monday, February 13th - 11:00 PM: Go to bed (greeting customers and preparing drinks)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe until she closes the cafe at 8pm.\n\nLet's fill in the activities for Isabella's schedule today:\n\n* Monday, February 13th - 5:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 5:00 AM: Wake up and complete morning routine\n* Monday, February 13th - 6:00 AM to 7:00 AM: Prepare for the day, gather party materials, etc.\n* Monday, February 13th - 7:00 AM to 8:00 AM: Open Hobbs Cafe and start serving customers\n* Monday, February 13th - 8:00 AM to 5:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins\n* Monday, February 13th - 5:00 PM to 7:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 8:00 PM: Close Hobbs Cafe for the day\n* Monday, February 13th - 9:00 PM to 11:00 PM: Wind down and relax after the Valentine's Day party\n* Monday, February 13th - 11:00 PM: Go to bed (refilling drink glasses and cleaning tables)",
+      30
+    ],
+    [
+      "Wake up and complete the morning routine.\n\n[Monday, February 13th - 9:00 AM to 11:00 AM] Wake up and complete the morning routine, prepare for the day, gather party materials, etc.\n\n[Monday, February 13th - 7:00 AM to 8:00 AM] Open Hobbs Cafe and start serving customers.\n\n[Monday, February 13th - 8:00 AM to 5:00 PM] Work at Hobbs Cafe until the Valentine's Day party begins.\n\n[Monday, February 13th - 5:00 PM to 7:00 PM] Valentine's Day party at Hobbs Cafe.\n\n[Monday, February 13th - 8:00 PM to 9:00 PM] Wind down and relax after the Valentine's Day party.\n\n[Monday, February 13th - 9:00 PM to 11:00 PM]\n\n[Monday, February 13th - 11:00 PM] Go to bed",
+      60
+    ],
+    [
+      "working on the Valentine's Day party preparations.\n\nThis hourly breakdown of Isabella Rodriguez's schedule today includes all of her planned activities, from waking up and completing her morning routine to hosting a Valentine's Day party at Hobbs Cafe in the evening.\n\nAt 8:00 am, Isabella will wake up and complete her morning routine, which may include having breakfast, getting dressed for work, or doing any other tasks she needs to do before starting her day. After that, she will spend the next few hours preparing for the Valentine's Day party, gathering party materials, decorating the cafe, and making sure everything is ready for guests.\n\nFrom 7:00 am to 8:00 am, Isabella will open Hobbs Cafe and start serving customers. She will likely spend this time greeting customers, taking orders, preparing food and drinks, and making sure the cafe is running smoothly. From 8:00 am to 5:00 pm, she will continue working at Hobbs Cafe, serving customers, managing staff, and ensuring that everything is running smoothly until it's time for the Valentine's Day party.\n\nAt 5:00 pm, Isabella will close Hobbs Cafe and begin setting up for the Valentine's Day party. She may decorate the cafe with flowers and balloons, arrange seating and tables, and set out food and drinks for guests. From 5:00 pm to 7:00 pm, Isabella will host the Valentine's Day party, greeting guests, serving food and drinks, and making sure everyone is having a good time.\n\nAfter the party ends at 7:00 pm, Isabella will spend the next few hours winding down and relaxing before going to bed. She may spend this time doing some light exercise or reading a book, or simply enjoying some quiet time to herself. At 9:00 pm, she will begin getting ready for bed, which may include taking a warm bath or shower, brushing her teeth, and getting into comfortable clothes for the night. Finally, at 11:00 pm, Isabella will go to bed and get a good night's rest before starting another day",
+      60
+    ],
+    [
+      "Here are some possible activities for Isabella's schedule today:\n\n* Monday, February 13th - 7:00 AM to 8:00 AM: Open Hobbs Cafe and start serving customers.\n* Monday, February 13th - 9:00 AM to 10:00 AM: Prepare for the day, gather party materials, etc.\n* Monday, February 13th - 10:00 AM to 4:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins (this includes serving customers, managing staff, and ensuring everything is running smoothly).\n* Monday, February 13th - 5:00 PM to 7:00 PM: Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests.\n* Monday, February 13th - 7:00 PM to 8:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n* Monday, February 13th - 8:00 PM to 9:00 PM: Wind down and relax after the Valentine's Day party (this may include doing some light exercise or reading a book).\n* Monday, February 13th - 9:00 PM to 11:00 PM: Prepare for bed (this may include taking a warm bath or shower, brushing teeth, getting into comfortable clothes for the night).\n* Monday, February 13th - 11:00 PM: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. It's also important to consider her lifestyle habits, such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party.\n\n* Monday, February 13th - 12:00 PM to 1:00 PM: Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests.\n* Monday, February 13th - 2:00 PM to 5:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins (this includes serving customers, managing staff, and ensuring everything is running smoothly).\n* Monday, February 13th - 5:00 PM to 7:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. It's also important to consider her lifestyle habits, such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule",
+      60
+    ],
+    [
+      "Sorry, it seems like your message was cut off. Could you please provide the full context or question so I can assist you better?",
+      60
+    ],
+    [
+      "Isabella Rodriguez is a cafe owner who plans on hosting a Valentine's Day party on February 14th, 2023 at Hobbs Cafe from 5pm to 7pm. Her schedule for the day includes preparing for the party in the morning, serving customers during the day until the party starts, and then hosting the party in the evening. She will likely wind down and relax after the party before going to bed around 11pm",
+      60
+    ],
+    [
+      "",
+      60
+    ],
+    [
+      "Here's an hourly breakdown of Isabella Rodriguez's schedule today:\n\n* 9:00 AM to 10:00 AM: Wake up, have breakfast and complete morning routine.\n* 10:00 AM to 3:00 PM: Work at Hobbs Cafe, preparing for Valentine's Day party, serving customers, managing staff, ensuring everything is running smoothly.\n* 3:00 PM to 4:00 PM: Prepare for the Valentine's Day party, decorate the cafe and set out food and drinks for guests.\n* 4:00 PM to 5:00 PM: Take a break or rest before beginning the party.\n* 5:00 PM to 7:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n* 7:00 PM to 8:00 PM: Wind down and relax after the party.\n* 8:00 PM to 9:00 PM: Take a shower or do some light exercise.\n* 9:00 PM to 11:00 PM: Prepare for bed, read a book or listen to music.\n* 11:00 PM: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ],
+    [
+      "Here is an hourly breakdown of Isabella Rodriguez's schedule today, based on the information provided:\n\n* From 8:00 am to 5:00 pm: Work at Hobbs Cafe, serving customers and preparing for Valentine's Day party.\n* From 5:00 pm to 7:00 pm: Host Valentine's Day party, serve food and drinks to guests.\n* From 7:00 pm to 8:00 pm: Wind down and relax after the party.\n* From 8:00 pm to 11:00 pm: Prepare for bed, do some light exercise or read a book.\n* At 11:00 pm: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      120
+    ],
+    [
+      "Isabella Rodriguez is preparing for her Valentine's Day party at Hobbs Cafe. Her schedule for today includes working at the cafe from 8:00 am to 5:00 pm, preparing for the party in the morning, serving customers during the day until the party starts, and then hosting the party in the evening. She will likely wind down and relax after the party before going to bed around 11pm",
+      60
+    ],
+    [
+      "1. Wake up, have breakfast, and complete morning routine from 8:00 am to 9:00 am.\n2. Work at Hobbs Cafe from 9:00 am to 10:00 am, serving customers and preparing for Valentine's Day party.\n3. Take a break or rest from 10:00 am to 11:00 am.\n4. Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests from 11:00 am to 2:00 pm.\n5. Serve customers and manage staff at Hobbs Cafe from 2:00 pm to 4:00 pm.\n6. Host Valentine's Day party, greet guests, serve food and drinks from 5:00 pm to 7:00 pm.\n7. Wind down and relax after the party from 7:00 pm to 8:00 pm.\n8. Take a shower or do some light exercise from 8:00 pm to 9:00 pm.\n9. Prepare for bed, read a book or listen to music from 9:00 pm to 11:00 pm.\n10. Go to bed at 11:00 pm.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ],
+    [
+      "I apologize for the confusion, it seems like there was a misunderstanding. There is no hourly breakdown of Isabella's schedule provided in the previous messages. Can you please provide me with more information or context so that I can assist you better?",
+      60
+    ],
+    [
+      "I apologize, it seems like there was a misunderstanding. There is no hourly breakdown of Isabella's schedule provided in the previous messages. Can you please provide me with more information or context so that I can assist you better?",
+      60
+    ],
+    [
+      "I apologize for the confusion earlier. After reviewing the information provided, here's a possible hourly breakdown of Isabella Rodriguez's schedule today:\n\n* From 9:00 pm to 12:00 am: Prepare for bed, read a book or listen to music.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "working at Hobbs Cafe until she closes the cafe at 8pm.\n\nLet's fill in the activities for Isabella's schedule today:\n\n* Monday, February 13th - 5:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 5:00 AM: Wake up and complete morning routine\n* Monday, February 13th - 6:00 AM to 7:00 AM: Prepare for the day, gather party materials, etc.\n* Monday, February 13th - 7:00 AM to 8:00 AM: Open Hobbs Cafe and start serving customers\n* Monday, February 13th - 8:00 AM to 5:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins\n* Monday, February 13th - 5:00 PM to 7:00 PM: Valentine's Day party at Hobbs Cafe\n* Monday, February 13th - 8:00 PM: Close Hobbs Cafe for the day\n* Monday, February 13th - 9:00 PM to 11:00 PM: Wind down and relax after the Valentine's Day party\n* Monday, February 13th - 11:00 PM: Go to bed",
+      60
+    ],
+    [
+      "Wake up and complete the morning routine.\n\n[Monday, February 13th - 9:00 AM to 11:00 AM] Wake up and complete the morning routine, prepare for the day, gather party materials, etc.\n\n[Monday, February 13th - 7:00 AM to 8:00 AM] Open Hobbs Cafe and start serving customers.\n\n[Monday, February 13th - 8:00 AM to 5:00 PM] Work at Hobbs Cafe until the Valentine's Day party begins.\n\n[Monday, February 13th - 5:00 PM to 7:00 PM] Valentine's Day party at Hobbs Cafe.\n\n[Monday, February 13th - 8:00 PM to 9:00 PM] Wind down and relax after the Valentine's Day party.\n\n[Monday, February 13th - 9:00 PM to 11:00 PM]\n\n[Monday, February 13th - 11:00 PM] Go to bed",
+      60
+    ],
+    [
+      "working on the Valentine's Day party preparations.\n\nThis hourly breakdown of Isabella Rodriguez's schedule today includes all of her planned activities, from waking up and completing her morning routine to hosting a Valentine's Day party at Hobbs Cafe in the evening.\n\nAt 8:00 am, Isabella will wake up and complete her morning routine, which may include having breakfast, getting dressed for work, or doing any other tasks she needs to do before starting her day. After that, she will spend the next few hours preparing for the Valentine's Day party, gathering party materials, decorating the cafe, and making sure everything is ready for guests.\n\nFrom 7:00 am to 8:00 am, Isabella will open Hobbs Cafe and start serving customers. She will likely spend this time greeting customers, taking orders, preparing food and drinks, and making sure the cafe is running smoothly. From 8:00 am to 5:00 pm, she will continue working at Hobbs Cafe, serving customers, managing staff, and ensuring that everything is running smoothly until it's time for the Valentine's Day party.\n\nAt 5:00 pm, Isabella will close Hobbs Cafe and begin setting up for the Valentine's Day party. She may decorate the cafe with flowers and balloons, arrange seating and tables, and set out food and drinks for guests. From 5:00 pm to 7:00 pm, Isabella will host the Valentine's Day party, greeting guests, serving food and drinks, and making sure everyone is having a good time.\n\nAfter the party ends at 7:00 pm, Isabella will spend the next few hours winding down and relaxing before going to bed. She may spend this time doing some light exercise or reading a book, or simply enjoying some quiet time to herself. At 9:00 pm, she will begin getting ready for bed, which may include taking a warm bath or shower, brushing her teeth, and getting into comfortable clothes for the night. Finally, at 11:00 pm, Isabella will go to bed and get a good night's rest before starting another day",
+      60
+    ],
+    [
+      "Here are some possible activities for Isabella's schedule today:\n\n* Monday, February 13th - 7:00 AM to 8:00 AM: Open Hobbs Cafe and start serving customers.\n* Monday, February 13th - 9:00 AM to 10:00 AM: Prepare for the day, gather party materials, etc.\n* Monday, February 13th - 10:00 AM to 4:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins (this includes serving customers, managing staff, and ensuring everything is running smoothly).\n* Monday, February 13th - 5:00 PM to 7:00 PM: Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests.\n* Monday, February 13th - 7:00 PM to 8:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n* Monday, February 13th - 8:00 PM to 9:00 PM: Wind down and relax after the Valentine's Day party (this may include doing some light exercise or reading a book).\n* Monday, February 13th - 9:00 PM to 11:00 PM: Prepare for bed (this may include taking a warm bath or shower, brushing teeth, getting into comfortable clothes for the night).\n* Monday, February 13th - 11:00 PM: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. It's also important to consider her lifestyle habits, such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party.\n\n* Monday, February 13th - 12:00 PM to 1:00 PM: Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests.\n* Monday, February 13th - 2:00 PM to 5:00 PM: Work at Hobbs Cafe until the Valentine's Day party begins (this includes serving customers, managing staff, and ensuring everything is running smoothly).\n* Monday, February 13th - 5:00 PM to 7:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. It's also important to consider her lifestyle habits, such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule",
+      60
+    ],
+    [
+      "Sorry, it seems like your message was cut off. Could you please provide the full context or question so I can assist you better?",
+      60
+    ],
+    [
+      "Isabella Rodriguez is a cafe owner who plans on hosting a Valentine's Day party on February 14th, 2023 at Hobbs Cafe from 5pm to 7pm. Her schedule for the day includes preparing for the party in the morning, serving customers during the day until the party starts, and then hosting the party in the evening. She will likely wind down and relax after the party before going to bed around 11pm",
+      60
+    ],
+    [
+      "",
+      60
+    ],
+    [
+      "Here's an hourly breakdown of Isabella Rodriguez's schedule today:\n\n* 9:00 AM to 10:00 AM: Wake up, have breakfast and complete morning routine.\n* 10:00 AM to 3:00 PM: Work at Hobbs Cafe, preparing for Valentine's Day party, serving customers, managing staff, ensuring everything is running smoothly.\n* 3:00 PM to 4:00 PM: Prepare for the Valentine's Day party, decorate the cafe and set out food and drinks for guests.\n* 4:00 PM to 5:00 PM: Take a break or rest before beginning the party.\n* 5:00 PM to 7:00 PM: Host the Valentine's Day party, greet guests, serve food and drinks.\n* 7:00 PM to 8:00 PM: Wind down and relax after the party.\n* 8:00 PM to 9:00 PM: Take a shower or do some light exercise.\n* 9:00 PM to 11:00 PM: Prepare for bed, read a book or listen to music.\n* 11:00 PM: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ],
+    [
+      "Here is an hourly breakdown of Isabella Rodriguez's schedule today, based on the information provided:\n\n* From 8:00 am to 5:00 pm: Work at Hobbs Cafe, serving customers and preparing for Valentine's Day party.\n* From 5:00 pm to 7:00 pm: Host Valentine's Day party, serve food and drinks to guests.\n* From 7:00 pm to 8:00 pm: Wind down and relax after the party.\n* From 8:00 pm to 11:00 pm: Prepare for bed, do some light exercise or read a book.\n* At 11:00 pm: Go to bed.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      120
+    ],
+    [
+      "Isabella Rodriguez is preparing for her Valentine's Day party at Hobbs Cafe. Her schedule for today includes working at the cafe from 8:00 am to 5:00 pm, preparing for the party in the morning, serving customers during the day until the party starts, and then hosting the party in the evening. She will likely wind down and relax after the party before going to bed around 11pm",
+      60
+    ],
+    [
+      "1. Wake up, have breakfast, and complete morning routine from 8:00 am to 9:00 am.\n2. Work at Hobbs Cafe from 9:00 am to 10:00 am, serving customers and preparing for Valentine's Day party.\n3. Take a break or rest from 10:00 am to 11:00 am.\n4. Prepare for the Valentine's Day party, decorate the cafe, set out food and drinks for guests from 11:00 am to 2:00 pm.\n5. Serve customers and manage staff at Hobbs Cafe from 2:00 pm to 4:00 pm.\n6. Host Valentine's Day party, greet guests, serve food and drinks from 5:00 pm to 7:00 pm.\n7. Wind down and relax after the party from 7:00 pm to 8:00 pm.\n8. Take a shower or do some light exercise from 8:00 pm to 9:00 pm.\n9. Prepare for bed, read a book or listen to music from 9:00 pm to 11:00 pm.\n10. Go to bed at 11:00 pm.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule today and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ],
+    [
+      "I apologize for the confusion, it seems like there was a misunderstanding. There is no hourly breakdown of Isabella's schedule provided in the previous messages. Can you please provide me with more information or context so that I can assist you better?",
+      60
+    ],
+    [
+      "I apologize, it seems like there was a misunderstanding. There is no hourly breakdown of Isabella's schedule provided in the previous messages. Can you please provide me with more information or context so that I can assist you better?",
+      60
+    ],
+    [
+      "I apologize for the confusion earlier. After reviewing the information provided, here's a possible hourly breakdown of Isabella Rodriguez's schedule today:\n\n* From 9:00 pm to 12:00 am: Prepare for bed, read a book or listen to music.\n\nIt's important to note that this is just one possible hourly breakdown of Isabella's schedule and there may be other tasks or activities that she needs to do throughout the day. Additionally, her lifestyle habits such as when she usually wakes up and goes to bed, as well as any events or appointments that she has on her schedule can also impact her schedule",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34\ud83c\udfc3",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecc",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

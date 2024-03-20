@@ -1,0 +1,196 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:00:00",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "making breakfast at Hobbs Cafe.\n[(ID:0lNQ6y) Monday February 13 -- 09:00 AM] Activity: Isabella is preparing lunch for customers at Hobbs Cafe.\n[(ID:5vV7jM) Monday February 13 -- 10:00 AM] Activity: Isabella is cleaning the cafe and organizing party supplies.\n[(ID:m6d7r4) Monday February 13 -- 11:00 AM] Activity: Isabella is setting up for the Valentine's Day party at Hobbs Cafe.\n[(ID:2y9lXw) Monday February 13 -- 12:00 PM] Activity: Isabella is preparing lunch for customers at Hobbs Cafe.\n[(ID:4gfNjD) Monday February 13 -- 01:00 PM] Activity: Isabella is organizing the Valentine's Day party and checking guestlists.\n[(ID:6Xv1Wu) Monday February 13 -- 02:00 PM] Activity: Isabella is setting up for the party and decorating the cafe.\n[(ID:jK9cZz) Monday February 13 -- 03:00 PM] Activity: Isabella is preparing party snacks and drinks for customers.\n[(ID:2qYQ1v) Monday February 13 -- 04:00 PM] Activity: Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive.\n[(ID:3gX9rB) Monday February 13 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive.\n[(ID:4bWcRU) Monday February 13 -- 06:00 PM] Activity: Isabella is managing the party and making sure everything runs smoothly.\n[(ID:7m59jw) Monday February 13 -- 07:00 PM] Activity: Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening (making breakfast for customers at Hobbs Cafe)",
+      60
+    ],
+    [
+      "[Monday February 13 -- 09:00 AM] Activity: Isabella is preparing breakfast for customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party, gathering party supplies and decorating the cafe",
+      60
+    ],
+    [
+      "Sorry, it seems like there was an error in the input. Isabella's schedule should be updated to reflect the changes that have been made. Here's the corrected hourly breakdown of her schedule for today:\n\nMonday, February 13 -- 00:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 01:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 02:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 03:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 04:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 05:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 06:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 07:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 08:00 AM: [Isabella is making breakfast at Hobbs Cafe]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is cleaning the cafe and organizing party supplies]\nMonday, February 13 -- 11:00 AM: [Isabella is setting up for the Valentine's Day party at Hobbs Cafe]\nMonday, February 13 -- 12:00 PM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 01:00 PM: [Isabella is organizing the Valentine's Day party and checking guestlists]\nMonday, February 13 -- 02:00 PM: [Isabella is setting up for the party and decorating the cafe]\nMonday, February 13 -- 03:00 PM: [Isabella is preparing party snacks and drinks for customers]\nMonday, February 13 -- 04:00 PM: [Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive]\nMonday, February 13 -- 05:00 PM: [Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive]\nMonday, February 13 -- 06:00 PM: [Isabella is managing the party and making sure everything runs smoothly]\nMonday, February 13 -- 07:00 PM: [Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing breakfast for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is preparing for the Valentine's Day party, gathering party supplies and decorating the cafe]",
+      60
+    ],
+    [
+      "Monday, February 13 -- 00:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 01:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 02:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 03:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 04:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 05:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 06:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 07:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 08:00 AM: [Isabella is making breakfast at Hobbs Cafe]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is cleaning the cafe and organizing party supplies]\nMonday, February 13 -- 11:00 AM: [Isabella is setting up for the Valentine's Day party at Hobbs Cafe]\nMonday, February 13 -- 12:00 PM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 01:00 PM: [Isabella is organizing the Valentine's Day party and checking guestlists]\nMonday, February 13 -- 02:00 PM: [Isabella is setting up for the party and decorating the cafe]\nMonday, February 13 -- 03:00 PM: [Isabella is preparing party snacks and drinks for customers]\nMonday, February 13 -- 04:00 PM: [Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive]\nMonday, February 13 -- 05:00 PM: [Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive]\nMonday, February 13 -- 06:00 PM: [Isabella is managing the party and making sure everything runs smoothly]\nMonday, February 13 -- 07:00 PM: [Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing breakfast for customers at Hobbs Cafe]",
+      60
+    ],
+    [
+      "[S: Isabella Rodriguez\u2019s Daily Plan Requirement for Today, February 13th, 2023]\nIsabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule:\n\nMonday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "It looks like you are providing a daily plan for Isabella Rodriguez, the owner of Hobbs Cafe. Here's a breakdown of her schedule and activities on this particular day:\n\n* From 8:00 AM to 9:00 AM: She will prepare breakfast for customers at Hobbs Cafe.\n* From 10:00 AM to 11:00 AM: She will clean the cafe and organize party supplies for the Valentine's Day party.\n* From 12:00 PM to 1:00 PM: She will prepare lunch for customers at Hobbs Cafe.\n* From 2:00 PM to 4:00 PM: She will set up the cafe for the Valentine's Day party and decorate it. She will also prepare party snacks and drinks.\n* From 5:00 PM to 6:00 PM: She will host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive.\n* From 7:00 PM to 9:00 AM: She will clean up Hobbs Cafe after the Valentine's Day party, prepare for tomorrow's opening, and prepare breakfast for customers at Hobbs Cafe.\n\nIt looks like Isabella has a busy day planned ahead of her, but with careful planning and preparation, she should be able to manage everything smoothly",
+      60
+    ],
+    [
+      "It looks like there was an error in your message. Can you please provide the correct information or clarify what you are trying to ask?",
+      60
+    ],
+    [
+      "In the context of daily planning, \"Isabella\" refers to a character in the game or story. It is not possible to provide information on Isabella's schedule unless you know more about her background and activities. If you have a specific question or scenario, I can help you with that",
+      60
+    ],
+    [
+      "The information provided indicates that Isabella, a character in a story or game, has planned her day to start at 8:00 AM and end at 9:00 AM. She plans to spend the majority of her day working at Hobbs Cafe, which she owns and operates.\n\nIsabella's schedule includes activities such as preparing breakfast for customers, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. She plans to open Hobbs Cafe again at 9:00 AM for the morning shift.\n\nIt's important to note that this is a fictional character and their schedule may vary depending on the story or game",
+      60
+    ],
+    [
+      "The previous text appears to be a daily plan for Isabella Rodriguez, the owner of Hobbs Cafe in Hobbs City. Here is a breakdown of her activities for Monday, February 13th, 2023:\n\n* 8:00 am: Wake up and complete morning routine\n* 9:00 am: Open Hobbs Cafe for business and prepare breakfast for customers\n* 10:00 am: Clean and organize the cafe and party supplies\n* 11:00 am: Set up for Valentine's Day party at Hobbs Cafe\n* 12:00 pm: Prepare lunch for customers\n* 1:00 pm: Organize the Valentine's Day party and check guestlists\n* 2:00 pm: Set up for the party and decorate the cafe\n* 3:00 pm: Prepare party snacks and drinks for customers\n* 4:00 pm: Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00 pm: Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00 pm: Manage the party and make sure everything runs smoothly\n* 7:00 pm: Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00 am: Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "It appears that you provided a breakdown of Isabella's schedule for Monday, February 13th, 2023. The schedule includes activities such as preparing breakfast for customers at Hobbs Cafe, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. Isabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "Isabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule for Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      120
+    ],
+    [
+      "It looks like you provided a breakdown of Isabella's schedule for Monday, February 13th, 2023. The schedule includes activities such as preparing breakfast for customers at Hobbs Cafe, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. Isabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening.\nIsabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule for Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "making breakfast at Hobbs Cafe.\n[(ID:0lNQ6y) Monday February 13 -- 09:00 AM] Activity: Isabella is preparing lunch for customers at Hobbs Cafe.\n[(ID:5vV7jM) Monday February 13 -- 10:00 AM] Activity: Isabella is cleaning the cafe and organizing party supplies.\n[(ID:m6d7r4) Monday February 13 -- 11:00 AM] Activity: Isabella is setting up for the Valentine's Day party at Hobbs Cafe.\n[(ID:2y9lXw) Monday February 13 -- 12:00 PM] Activity: Isabella is preparing lunch for customers at Hobbs Cafe.\n[(ID:4gfNjD) Monday February 13 -- 01:00 PM] Activity: Isabella is organizing the Valentine's Day party and checking guestlists.\n[(ID:6Xv1Wu) Monday February 13 -- 02:00 PM] Activity: Isabella is setting up for the party and decorating the cafe.\n[(ID:jK9cZz) Monday February 13 -- 03:00 PM] Activity: Isabella is preparing party snacks and drinks for customers.\n[(ID:2qYQ1v) Monday February 13 -- 04:00 PM] Activity: Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive.\n[(ID:3gX9rB) Monday February 13 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive.\n[(ID:4bWcRU) Monday February 13 -- 06:00 PM] Activity: Isabella is managing the party and making sure everything runs smoothly.\n[(ID:7m59jw) Monday February 13 -- 07:00 PM] Activity: Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening",
+      60
+    ],
+    [
+      "[Monday February 13 -- 09:00 AM] Activity: Isabella is preparing breakfast for customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party, gathering party supplies and decorating the cafe",
+      60
+    ],
+    [
+      "Sorry, it seems like there was an error in the input. Isabella's schedule should be updated to reflect the changes that have been made. Here's the corrected hourly breakdown of her schedule for today:\n\nMonday, February 13 -- 00:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 01:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 02:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 03:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 04:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 05:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 06:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 07:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 08:00 AM: [Isabella is making breakfast at Hobbs Cafe]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is cleaning the cafe and organizing party supplies]\nMonday, February 13 -- 11:00 AM: [Isabella is setting up for the Valentine's Day party at Hobbs Cafe]\nMonday, February 13 -- 12:00 PM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 01:00 PM: [Isabella is organizing the Valentine's Day party and checking guestlists]\nMonday, February 13 -- 02:00 PM: [Isabella is setting up for the party and decorating the cafe]\nMonday, February 13 -- 03:00 PM: [Isabella is preparing party snacks and drinks for customers]\nMonday, February 13 -- 04:00 PM: [Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive]\nMonday, February 13 -- 05:00 PM: [Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive]\nMonday, February 13 -- 06:00 PM: [Isabella is managing the party and making sure everything runs smoothly]\nMonday, February 13 -- 07:00 PM: [Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing breakfast for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is preparing for the Valentine's Day party, gathering party supplies and decorating the cafe]",
+      60
+    ],
+    [
+      "Monday, February 13 -- 00:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 01:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 02:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 03:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 04:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 05:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 06:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 07:00 AM: [Isabella is sleeping]\nMonday, February 13 -- 08:00 AM: [Isabella is making breakfast at Hobbs Cafe]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 10:00 AM: [Isabella is cleaning the cafe and organizing party supplies]\nMonday, February 13 -- 11:00 AM: [Isabella is setting up for the Valentine's Day party at Hobbs Cafe]\nMonday, February 13 -- 12:00 PM: [Isabella is preparing lunch for customers at Hobbs Cafe]\nMonday, February 13 -- 01:00 PM: [Isabella is organizing the Valentine's Day party and checking guestlists]\nMonday, February 13 -- 02:00 PM: [Isabella is setting up for the party and decorating the cafe]\nMonday, February 13 -- 03:00 PM: [Isabella is preparing party snacks and drinks for customers]\nMonday, February 13 -- 04:00 PM: [Isabella is setting up the cafe for the Valentine's Day party and getting ready for guests to arrive]\nMonday, February 13 -- 05:00 PM: [Isabella is hosting the Valentine's Day party at Hobbs Cafe and greeting customers as they arrive]\nMonday, February 13 -- 06:00 PM: [Isabella is managing the party and making sure everything runs smoothly]\nMonday, February 13 -- 07:00 PM: [Isabella is closing up Hobbs Cafe after the Valentine's Day party and preparing for tomorrow's opening]\nMonday, February 13 -- 09:00 AM: [Isabella is preparing breakfast for customers at Hobbs Cafe]",
+      60
+    ],
+    [
+      "[S: Isabella Rodriguez\u2019s Daily Plan Requirement for Today, February 13th, 2023]\nIsabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule:\n\nMonday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "It looks like you are providing a daily plan for Isabella Rodriguez, the owner of Hobbs Cafe. Here's a breakdown of her schedule and activities on this particular day:\n\n* From 8:00 AM to 9:00 AM: She will prepare breakfast for customers at Hobbs Cafe.\n* From 10:00 AM to 11:00 AM: She will clean the cafe and organize party supplies for the Valentine's Day party.\n* From 12:00 PM to 1:00 PM: She will prepare lunch for customers at Hobbs Cafe.\n* From 2:00 PM to 4:00 PM: She will set up the cafe for the Valentine's Day party and decorate it. She will also prepare party snacks and drinks.\n* From 5:00 PM to 6:00 PM: She will host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive.\n* From 7:00 PM to 9:00 AM: She will clean up Hobbs Cafe after the Valentine's Day party, prepare for tomorrow's opening, and prepare breakfast for customers at Hobbs Cafe.\n\nIt looks like Isabella has a busy day planned ahead of her, but with careful planning and preparation, she should be able to manage everything smoothly",
+      60
+    ],
+    [
+      "It looks like there was an error in your message. Can you please provide the correct information or clarify what you are trying to ask?",
+      60
+    ],
+    [
+      "In the context of daily planning, \"Isabella\" refers to a character in the game or story. It is not possible to provide information on Isabella's schedule unless you know more about her background and activities. If you have a specific question or scenario, I can help you with that",
+      60
+    ],
+    [
+      "The information provided indicates that Isabella, a character in a story or game, has planned her day to start at 8:00 AM and end at 9:00 AM. She plans to spend the majority of her day working at Hobbs Cafe, which she owns and operates.\n\nIsabella's schedule includes activities such as preparing breakfast for customers, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. She plans to open Hobbs Cafe again at 9:00 AM for the morning shift.\n\nIt's important to note that this is a fictional character and their schedule may vary depending on the story or game",
+      60
+    ],
+    [
+      "The previous text appears to be a daily plan for Isabella Rodriguez, the owner of Hobbs Cafe in Hobbs City. Here is a breakdown of her activities for Monday, February 13th, 2023:\n\n* 8:00 am: Wake up and complete morning routine\n* 9:00 am: Open Hobbs Cafe for business and prepare breakfast for customers\n* 10:00 am: Clean and organize the cafe and party supplies\n* 11:00 am: Set up for Valentine's Day party at Hobbs Cafe\n* 12:00 pm: Prepare lunch for customers\n* 1:00 pm: Organize the Valentine's Day party and check guestlists\n* 2:00 pm: Set up for the party and decorate the cafe\n* 3:00 pm: Prepare party snacks and drinks for customers\n* 4:00 pm: Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00 pm: Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00 pm: Manage the party and make sure everything runs smoothly\n* 7:00 pm: Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00 am: Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "It appears that you provided a breakdown of Isabella's schedule for Monday, February 13th, 2023. The schedule includes activities such as preparing breakfast for customers at Hobbs Cafe, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. Isabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ],
+    [
+      "Isabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule for Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      120
+    ],
+    [
+      "It looks like you provided a breakdown of Isabella's schedule for Monday, February 13th, 2023. The schedule includes activities such as preparing breakfast for customers at Hobbs Cafe, cleaning the cafe, organizing party supplies, setting up for events, hosting events, managing the party, preparing snacks and drinks, closing the cafe, and preparing breakfast for customers in the morning shift. Isabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening.\nIsabella Rodriguez is a cafe owner who runs Hobbs Cafe in Hobbs City. She plans her day around the hours she needs to work at the cafe and make sure it runs smoothly. Here's what she has on her schedule for Monday, February 13th, 2023:\n\n* 8:00am - Open Hobbs Cafe for business\n* 9:00am - Prepare breakfast for customers\n* 10:00am - Clean and organize the cafe and party supplies\n* 11:00am - Set up for the Valentine's Day party at Hobbs Cafe\n* 12:00pm - Prepare lunch for customers\n* 1:00pm - Organize the Valentine's Day party and check guestlists\n* 2:00pm - Set up for the party and decorate the cafe\n* 3:00pm - Prepare party snacks and drinks for customers\n* 4:00pm - Set up the cafe for the Valentine's Day party and get ready for guests to arrive\n* 5:00pm - Host the Valentine's Day party at Hobbs Cafe and greet customers as they arrive\n* 6:00pm - Manage the party and make sure everything runs smoothly\n* 7:00pm - Close up Hobbs Cafe after the Valentine's Day party and prepare for tomorrow's opening\n* 9:00am - Prepare breakfast for customers at Hobbs Cafe\n\nIsabella plans to open Hobbs Cafe at 8:00 am, stay until 8:00 pm, and then reopen again for the morning shift. During her work hours, she will focus on preparing food, cleaning, organizing party supplies, and hosting events. By the end of the day, she ensures that everything is in order and ready for the next day's opening",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\uded1\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "sleeping",
+  "act_obj_pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

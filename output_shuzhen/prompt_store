@@ -1,0 +1,147 @@
+
+Klaus Mueller persona.scratch.importance_trigger_curr:: 73
+150
+aldhfoaf/????
+85
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 7
+CHAT GPT PROMPT
+"""
+Here is a brief description of Isabella Rodriguez. 
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+On the scale of 1 to 10, where 1 is purely mundane (e.g., brushing teeth, making bed) and 10 is extremely poignant (e.g., a break up, college acceptance), rate the likely poignancy of the following event for Isabella Rodriguez.
+
+Event: ID:LsX5Cf
+Rate (return a number between 1 to 10):
+"""
+Output the response to the prompt above in json. The output should ONLY contain ONE integer value on the scale of 1 to 10.
+Example output json:
+{"output": "5"}
+{
+"output": "7"
+}
+to see curr_gpt_response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+7
+Isabella Rodriguez persona.scratch.importance_trigger_curr:: 90
+150
+asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 7
+CHAT GPT PROMPT
+"""
+Here is a brief description of Maria Lopez. 
+Name: Maria Lopez
+Age: 21
+Innate traits: energetic, enthusiastic, inquisitive
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+
+On the scale of 1 to 10, where 1 is purely mundane (e.g., brushing teeth, making bed) and 10 is extremely poignant (e.g., a break up, college acceptance), rate the likely poignancy of the following event for Maria Lopez.
+
+Event: ID:hLfv6E
+Rate (return a number between 1 to 10):
+"""
+Output the response to the prompt above in json. The output should ONLY contain ONE integer value on the scale of 1 to 10.
+Example output json:
+{"output": "5"}
+{
+"output": "2"
+}
+to see curr_gpt_response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2
+To see GPT response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Maria Lopez is currently preparing breakfast, and there is no information indicating that Klaus Mueller is in the same location as her. Additionally, there is no mention of any event or situation that would prompt Maria to initiate a conversation with Klaus. Therefore, based on the given context, it seems unlikely that Maria Lopez would initiate a conversation with Klaus Mueller at this time.
+
+Answer: No.
+To see GPT response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+First, we need to consider the context provided. Maria Lopez is preparing breakfast and Klaus Mueller is eating breakfast and drinking coffee. However, the text does not indicate that they are in the same location or that they can easily communicate with each other.
+
+Additionally, there is no information about their relationship or previous interactions. It is also unclear whether Maria Lopez is aware that Klaus Mueller is currently having breakfast.
+
+Therefore, based on the given context, we cannot definitively determine whether Maria Lopez would initiate a conversation with Klaus Mueller.
+
+Answer: no.
+To see GPT response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+First, we need to consider the context and the current activities of both individuals. Maria Lopez is preparing breakfast while Klaus Mueller is already eating breakfast and drinking coffee. It's not clear if they are in the same location or not, but the information provided does not indicate that Maria has a reason to initiate a conversation with Klaus at this time. Therefore, based on the given context, it is unlikely that Maria Lopez would initiate a conversation with Klaus Mueller.
+Answer: "no"
+To see GPT response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Maria Lopez is currently preparing breakfast, and Klaus Mueller is already eating breakfast. There is no information in the context about their relationship or any reason for Maria Lopez to initiate a conversation with Klaus Mueller at this time. Therefore, based on the given context, it is unlikely that Maria Lopez would initiate a conversation with Klaus Mueller.
+
+Answer: No.
+To see GPT response~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Based on the given context, there is no indication that Maria Lopez has a specific reason to initiate a conversation with Klaus Mueller at this time. They have not interacted recently, and they are both engaged in their own activities (Maria is preparing breakfast, and Klaus is eating breakfast). Therefore, it seems unlikely that Maria would initiate a conversation with Klaus in this situation.
+Answer: No.
+=== persona/prompt_template/v2/decide_to_talk_v2.txt
+~~~ persona    ---------------------------------------------------
+Maria Lopez 
+
+~~~ gpt_param ----------------------------------------------------
+['Maria Lopez was preparing breakfas. Maria Lopez was preparing breakfas. Klaus Mueller was eating breakfast and drinking a cup of coffee. \n', 'February 13, 2023, 08:40:10 AM', 'Maria Lopez', 'Klaus Mueller', '', '', 'Maria Lopez is already preparing breakfas', 'Klaus Mueller is on the way to eating breakfast and drinking a cup of coffee', 'Maria Lopez', 'Klaus Mueller'] 
+
+~~~ prompt_input    ----------------------------------------------
+Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Reasoning: []
+Answer in "yes" or "no": []
+---
+Context: Maria Lopez was preparing breakfas. Maria Lopez was preparing breakfas. Klaus Mueller was eating breakfast and drinking a cup of coffee. 
+ 
+Right now, it is February 13, 2023, 08:40:10 AM. Maria Lopez and Klaus Mueller last chatted at  about . 
+Maria Lopez is already preparing breakfas 
+Klaus Mueller is on the way to eating breakfast and drinking a cup of coffee 
+
+Question: Would Maria Lopez initiate a conversation with Klaus Mueller? 
+
+Reasoning: Let's think step by step. 
+
+~~~ prompt    ----------------------------------------------------
+yes 
+
+~~~ output    ----------------------------------------------------
+None 
+
+=== END ==========================================================
+
+
+
+
+GNS FUNCTION: <generate_decide_to_talk>
+July 23
+[1, 2855, 349, 1250, 18283, 356] [1, 7211, 1899, 10495, 5371]
+Traceback (most recent call last):
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/reverie.py", line 486, in open_server
+    rs.start_server(int_count)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/reverie.py", line 382, in start_server
+    next_tile, pronunciatio, description = persona.move(
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/persona.py", line 222, in move
+    plan = self.plan(maze, personas, new_day, retrieved)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/persona.py", line 148, in plan
+    return plan(self, maze, personas, new_day, retrieved)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/plan.py", line 985, in plan
+    _chat_react(maze, persona, focused_event, reaction_mode, personas)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/plan.py", line 868, in _chat_react
+    convo, duration_min = generate_convo(maze, init_persona, target_persona)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/plan.py", line 282, in generate_convo
+    convo = agent_chat_v2(maze, init_persona, target_persona)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/converse.py", line 132, in agent_chat_v2
+    retrieved = new_retrieve(init_persona, focal_points, 50)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/retrieve.py", line 236, in new_retrieve
+    relevance_out = extract_relevance(persona, nodes, focal_pt)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/retrieve.py", line 195, in extract_relevance
+    relevance_out[node.node_id] = cos_sim(node_embedding, focal_embedding)
+  File "/Users/muhualiushui/Desktop/AI_Simulation_Llama2/reverie/backend_server/persona/cognitive_modules/retrieve.py", line 68, in cos_sim
+    return dot(a, b)/(norm(a)*norm(b))
+ValueError: shapes (6,) and (5,) not aligned: 6 (dim 0) != 5 (dim 0)
+Error.

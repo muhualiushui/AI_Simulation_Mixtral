@@ -1,0 +1,473 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:59:50",
+  "curr_tile": [
+    131,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 15,
+  "importance_ele_n": 81,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "Return home and spend the evening on personal interests"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine (1) Klaus is hitting the snooze button on his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (using the bathroom and washing his face)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed in casual clothes)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making a cup of coffee)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (eating a quick breakfast, such as yogurt and granola)",
+      15
+    ],
+    [
+      "leaving for the library to start working on his research paper (1) Klaus is brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "leaving for the library to start working on his research paper (getting dressed and packing his bag with laptop and research materials)",
+      15
+    ],
+    [
+      "leaving for the library to start working on his research paper (eating a quick breakfast)",
+      10
+    ],
+    [
+      "leaving for the library to start working on his research paper (double-checking that he has all necessary research sources and notes)",
+      5
+    ],
+    [
+      "leaving for the library to start working on his research paper (locking his apartment door and heading to the library)",
+      20
+    ],
+    [
+      "conducting research at the library (1) Klaus is searching for scholarly articles on gentrification)",
+      10
+    ],
+    [
+      "conducting research at the library (reading and taking notes on the articles)",
+      20
+    ],
+    [
+      "conducting research at the library (organizing his notes and highlighting key points)",
+      15
+    ],
+    [
+      "conducting research at the library (searching for more specific articles related to low-income communities)",
+      10
+    ],
+    [
+      "conducting research at the library (reviewing and summarizing the articles he found)",
+      5
+    ],
+    [
+      "continuing to conduct research at the library (1) Klaus is searching for scholarly articles on the effects of gentrification)",
+      10
+    ],
+    [
+      "continuing to conduct research at the library (reading and taking notes on the articles)",
+      20
+    ],
+    [
+      "continuing to conduct research at the library (organizing his notes and sources)",
+      10
+    ],
+    [
+      "continuing to conduct research at the library (writing a summary of the research findings)",
+      20
+    ],
+    [
+      "having lunch (1) Klaus is walking to Hobbs Cafe from the library)",
+      10
+    ],
+    [
+      "having lunch (ordering food at the counter)",
+      5
+    ],
+    [
+      "having lunch (finding a table to sit and eat)",
+      5
+    ],
+    [
+      "having lunch (eating his main course)",
+      20
+    ],
+    [
+      "having lunch (drinking his beverage)",
+      10
+    ],
+    [
+      "having lunch (eating dessert)",
+      10
+    ],
+    [
+      "writing a paragraph for his research paper (1) Klaus is researching the effects of gentrification)",
+      10
+    ],
+    [
+      "writing a paragraph for his research paper (outlining the paragraph structure)",
+      10
+    ],
+    [
+      "writing a paragraph for his research paper (writing the first draft of the paragraph)",
+      20
+    ],
+    [
+      "writing a paragraph for his research paper (proofreading and editing the paragraph)",
+      15
+    ],
+    [
+      "writing a paragraph for his research paper (finalizing the paragraph)",
+      5
+    ],
+    [
+      "writing another paragraph for his research paper (1) Klaus is researching additional sources for the paragraph)",
+      20
+    ],
+    [
+      "writing another paragraph for his research paper (outlining the structure of the paragraph)",
+      15
+    ],
+    [
+      "writing another paragraph for his research paper (writing the first draft of the paragraph)",
+      30
+    ],
+    [
+      "writing another paragraph for his research paper (taking a short break to rest his eyes)",
+      10
+    ],
+    [
+      "writing another paragraph for his research paper (revising and editing the first draft)",
+      25
+    ],
+    [
+      "writing another paragraph for his research paper (incorporating feedback from his professor)",
+      15
+    ],
+    [
+      "writing another paragraph for his research paper (proofreading the paragraph for errors)",
+      15
+    ],
+    [
+      "writing another paragraph for his research paper (reading the paragraph aloud to check for clarity)",
+      10
+    ],
+    [
+      "writing another paragraph for his research paper (making final revisions to the paragraph)",
+      20
+    ],
+    [
+      "writing another paragraph for his research paper (saving and backing up his work)",
+      5
+    ],
+    [
+      "writing another paragraph for his research paper (taking a short break before starting the next paragraph)",
+      10
+    ],
+    [
+      "writing another paragraph for his research paper (reviewing his progress on the research paper)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "returning home and spending the evening on personal interests",
+      60
+    ],
+    [
+      "reading a book at home",
+      120
+    ],
+    [
+      "watching a documentary on social justice",
+      60
+    ],
+    [
+      "studying for an upcoming exam",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "leaving for the library to start working on his research paper",
+      60
+    ],
+    [
+      "conducting research at the library",
+      60
+    ],
+    [
+      "continuing to conduct research at the library",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "writing a paragraph for his research paper",
+      60
+    ],
+    [
+      "writing another paragraph for his research paper",
+      180
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "returning home and spending the evening on personal interests",
+      60
+    ],
+    [
+      "reading a book at home",
+      120
+    ],
+    [
+      "watching a documentary on social justice",
+      60
+    ],
+    [
+      "studying for an upcoming exam",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+  "act_start_time": "February 13, 2023, 13:55:00",
+  "act_duration": 5,
+  "act_description": "writing a paragraph for his research paper (finalizing the paragraph)",
+  "act_pronunciatio": "\ud83d\udcdd\u2705",
+  "act_event": [
+    "Klaus Mueller",
+    "finalize",
+    "paragraph"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ufffd d",
+  "act_obj_event": [
+    "desk",
+    "be used",
+    "\\_"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

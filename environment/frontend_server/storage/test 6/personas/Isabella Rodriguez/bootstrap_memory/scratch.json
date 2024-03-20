@@ -1,0 +1,237 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:00:00",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm",
+    "continue working on party planning until 4:00 pm",
+    "take a short break and then work on party planning again until 6:00 pm",
+    "have dinner at home from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "Sorry, it seems like the end of the hourly schedule format for Isabella's daily plan was cut off. Can you provide the full hourly breakdown of her daily plan? (gathering party material)",
+      30
+    ],
+    [
+      "Sorry, it seems like the end of the hourly schedule format for Isabella's daily plan was cut off. Can you provide the full hourly breakdown of her daily plan? (telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm)",
+      30
+    ],
+    [
+      "Isabella Rodriguez, who is a cafe owner of Hobbs Cafe, plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is currently gathering party material and telling everyone to join the party at Hobbs Cafe on that day and time. Isabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is: 1) wake up and complete morning routine at 6:00 am, 2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm, 3) continue working on party planning until 4:00 pm, 4) take a short break and then work on party planning again until 6:00 pm, 5) have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "[Monday February 13 -- 08:00 AM] Activity: Isabella opens Hobbs Cafe at 8am and goes to work at the counter. She works until 8pm, when she closes the cafe for the day",
+      60
+    ],
+    [
+      "Sorry, it seems like the hourly breakdown of Isabella's schedule for today was cut off. Can you provide me with the complete hourly breakdown so that I can help you with your task?",
+      60
+    ],
+    [
+      "I apologize for the confusion earlier. Here is the complete hourly breakdown of Isabella's schedule for today: \n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day",
+      60
+    ],
+    [
+      "[Monday February 13 -- 11:00 AM] Activity: Isabella has lunch at Hobbs Cafe from 12:00 pm to 1:00 pm. She then continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day",
+      60
+    ],
+    [
+      "[Monday February 13 -- 12:00 PM] Activity: Isabella has lunch at Hobbs Cafe from 12:00 pm to 1:00 pm. She then continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day\n\nHere is the complete hourly breakdown of Isabella's schedule for today:\n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day\n\nIsabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is:\n\n1) wake up and complete morning routine at 6:00 am\n2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm\n3) continue working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm\n4) have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is currently planning on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time",
+      60
+    ],
+    [
+      "[Monday February 13 -- 01:00 PM] Activity: Isabella continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day",
+      60
+    ],
+    [
+      "Here is the updated hourly breakdown of Isabella's schedule for today:\n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day\n\nIsabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is:\n\n1) wake up and complete morning routine at 6:00 am\n2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm\n3) continue working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm\n4) have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is currently planning on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time",
+      60
+    ],
+    [
+      "Here's the hourly schedule format for Isabella Rodriguez's daily plan on Monday, February 13th, 2023:\n\n[Monday, February 13 -- 06:00 AM] Activity: Wake up and complete morning routine.\n\n[Monday, February 13 -- 08:00 AM] Activity: Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n\n[Monday, February 13 -- 12:00 PM] Activity: Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n\n[Monday, February 13 -- 04:00 PM] Activity: Continue working on party planning until 4:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nI apologize for the truncation in the hourly breakdown earlier. Here's the complete hourly schedule format for Isabella Rodriguez's daily plan on Monday, February 13th, 2023:\n\n[Monday, February 13 -- 06:00 AM] Activity: Wake up and complete morning routine.\n\n[Monday, February 13 -- 08:00 AM] Activity: Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n\n[Monday, February 13 -- 12:00 PM] Activity: Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n\n[Monday, February 13 -- 04:00 PM] Activity: Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "[Monday, February 13 -- 4:00 PM] Activity: Isabella continues working on party planning until 4:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "Monday February 13 - 12:00 AM to 6:00 AM\nActivity: Sleeping\n\nMonday February 13 - 6:00 AM to 8:00 AM\nActivity: Getting ready for the day and having breakfast\n\nMonday February 13 - 8:00 AM to 4:00 PM\nActivity: Working at Hobbs Cafe, making coffee drinks, serving customers, cleaning up after customers\n\nMonday February 13 - 4:00 PM to 6:00 PM\nActivity: Taking a short break and relaxing before preparing for dinner\n\nMonday February 13 - 6:00 PM to 8:00 PM\nActivity: Having dinner with family or friends, spending time with loved ones\n\nMonday February 13 - 8:00 PM to 12:00 AM\nActivity: Spending leisure time, reading a book, watching TV, playing an instrument, etc",
+      60
+    ],
+    [
+      "Monday, February 13th, 2023\n\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm.\n* 6:00 PM - Take a short break and then work on party planning again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "It looks like there was an error in the code you provided. The hourly breakdown of Isabella's schedule for today should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "It looks like there was a mistake in the code you provided. The hourly breakdown of Isabella's schedule for today should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nHere, the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm, 3) continue working on party planning until 4:00 pm, 4) take a short break and then work on party planning again until 6:00 pm, 5) have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "It looks like there was an error in the code provided earlier. The hourly breakdown of Isabella's schedule for Monday, February 13th, 2023 should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point\n\nI apologize for any confusion caused by my earlier response. Please let me know if you have any further questions or if there's anything else I can help with",
+      120
+    ],
+    [
+      "Apologies for the confusion in my earlier response. Here's the complete hourly breakdown of Isabella Rodriguez's schedule for Monday, February 13th, 2023:\n\nMonday, February 13th, 2023\n-------------------------------\n6:00 AM - Wake up and complete morning routine.\n8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nI hope this clears up any confusion. Let me know if you have any further questions or if there's anything else I can help with!",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "Sorry, it seems like the end of the hourly schedule format for Isabella's daily plan was cut off. Can you provide the full hourly breakdown of her daily plan?",
+      60
+    ],
+    [
+      "Isabella Rodriguez, who is a cafe owner of Hobbs Cafe, plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is currently gathering party material and telling everyone to join the party at Hobbs Cafe on that day and time. Isabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is: 1) wake up and complete morning routine at 6:00 am, 2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm, 3) continue working on party planning until 4:00 pm, 4) take a short break and then work on party planning again until 6:00 pm, 5) have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "[Monday February 13 -- 08:00 AM] Activity: Isabella opens Hobbs Cafe at 8am and goes to work at the counter. She works until 8pm, when she closes the cafe for the day",
+      60
+    ],
+    [
+      "Sorry, it seems like the hourly breakdown of Isabella's schedule for today was cut off. Can you provide me with the complete hourly breakdown so that I can help you with your task?",
+      60
+    ],
+    [
+      "I apologize for the confusion earlier. Here is the complete hourly breakdown of Isabella's schedule for today: \n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day",
+      60
+    ],
+    [
+      "[Monday February 13 -- 11:00 AM] Activity: Isabella has lunch at Hobbs Cafe from 12:00 pm to 1:00 pm. She then continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day",
+      60
+    ],
+    [
+      "[Monday February 13 -- 12:00 PM] Activity: Isabella has lunch at Hobbs Cafe from 12:00 pm to 1:00 pm. She then continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day\n\nHere is the complete hourly breakdown of Isabella's schedule for today:\n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day\n\nIsabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is:\n\n1) wake up and complete morning routine at 6:00 am\n2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm\n3) continue working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm\n4) have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is currently planning on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time",
+      60
+    ],
+    [
+      "[Monday February 13 -- 01:00 PM] Activity: Isabella continues working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm. At 7:00 pm, Isabella has dinner at home and then goes back to work on party planning until 8:00 pm when she closes the cafe for the day",
+      60
+    ],
+    [
+      "Here is the updated hourly breakdown of Isabella's schedule for today:\n\nMonday, February 13\n\n* 6:00 AM - Wake up and complete morning routine\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day\n\nIsabella's daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point. Currently, the hourly breakdown of her schedule for today is:\n\n1) wake up and complete morning routine at 6:00 am\n2) have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm\n3) continue working on party planning until 4:00 pm, taking a short break before doing so again until 6:00 pm\n4) have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is currently planning on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. She is gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time",
+      60
+    ],
+    [
+      "Here's the hourly schedule format for Isabella Rodriguez's daily plan on Monday, February 13th, 2023:\n\n[Monday, February 13 -- 06:00 AM] Activity: Wake up and complete morning routine.\n\n[Monday, February 13 -- 08:00 AM] Activity: Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n\n[Monday, February 13 -- 12:00 PM] Activity: Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n\n[Monday, February 13 -- 04:00 PM] Activity: Continue working on party planning until 4:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nI apologize for the truncation in the hourly breakdown earlier. Here's the complete hourly schedule format for Isabella Rodriguez's daily plan on Monday, February 13th, 2023:\n\n[Monday, February 13 -- 06:00 AM] Activity: Wake up and complete morning routine.\n\n[Monday, February 13 -- 08:00 AM] Activity: Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n\n[Monday, February 13 -- 12:00 PM] Activity: Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n\n[Monday, February 13 -- 04:00 PM] Activity: Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "[Monday, February 13 -- 4:00 PM] Activity: Isabella continues working on party planning until 4:00 pm.\n\n[Monday, February 13 -- 06:00 PM] Activity: Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "Monday February 13 - 12:00 AM to 6:00 AM\nActivity: Sleeping\n\nMonday February 13 - 6:00 AM to 8:00 AM\nActivity: Getting ready for the day and having breakfast\n\nMonday February 13 - 8:00 AM to 4:00 PM\nActivity: Working at Hobbs Cafe, making coffee drinks, serving customers, cleaning up after customers\n\nMonday February 13 - 4:00 PM to 6:00 PM\nActivity: Taking a short break and relaxing before preparing for dinner\n\nMonday February 13 - 6:00 PM to 8:00 PM\nActivity: Having dinner with family or friends, spending time with loved ones\n\nMonday February 13 - 8:00 PM to 12:00 AM\nActivity: Spending leisure time, reading a book, watching TV, playing an instrument, etc",
+      60
+    ],
+    [
+      "Monday, February 13th, 2023\n\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm.\n* 6:00 PM - Take a short break and then work on party planning again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm.\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point",
+      60
+    ],
+    [
+      "It looks like there was an error in the code you provided. The hourly breakdown of Isabella's schedule for today should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "It looks like there was a mistake in the code you provided. The hourly breakdown of Isabella's schedule for today should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nHere, the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm, 3) continue working on party planning until 4:00 pm, 4) take a short break and then work on party planning again until 6:00 pm, 5) have dinner at home from 7:00 pm to 8:00 pm",
+      60
+    ],
+    [
+      "It looks like there was an error in the code provided earlier. The hourly breakdown of Isabella's schedule for Monday, February 13th, 2023 should be as follows:\n\nMonday, February 13th, 2023\n\n* 6:00 AM - Wake up and complete morning routine.\n* 8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n* 12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n* 4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n* 7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nIsabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She plans on having a Valentine's Day party at the cafe on February 14th, 2023, from 5pm to 7pm. Isabella is currently gathering party material and is telling everyone to join the party at Hobbs Cafe on that day and time. Her daily plan requires her to open the cafe at 8am and work at the counter until 8pm, closing it at that point\n\nI apologize for any confusion caused by my earlier response. Please let me know if you have any further questions or if there's anything else I can help with",
+      120
+    ],
+    [
+      "Apologies for the confusion in my earlier response. Here's the complete hourly breakdown of Isabella Rodriguez's schedule for Monday, February 13th, 2023:\n\nMonday, February 13th, 2023\n-------------------------------\n6:00 AM - Wake up and complete morning routine.\n8:00 AM - Open Hobbs Cafe and work at the counter until 8:00 PM, closing the cafe for the day.\n12:00 PM - Have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm.\n4:00 PM - Continue working on party planning until 4:00 pm. Take a short break before doing so again until 6:00 pm.\n7:00 PM - Have dinner at home from 7:00 pm to 8:00 pm\n\nI hope this clears up any confusion. Let me know if you have any further questions or if there's anything else I can help with!",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:closet",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "<fill in> by Isabella Rodriguez",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\udd20",
+  "act_obj_event": [
+    "closet",
+    "is filled with]",
+    "Isabella Rodriguez's clothes"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      74,
+      14
+    ],
+    [
+      75,
+      14
+    ],
+    [
+      76,
+      14
+    ]
+  ]
+}

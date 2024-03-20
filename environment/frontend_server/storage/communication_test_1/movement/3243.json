@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\udd42",
+      "description": "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am (preparing breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udc69\u200d",
+      "description": "I apologize for the confusion. It appears that you have provided an updated hourly schedule format with the latest activity for each time slot, while also mentioning the originally intended activities. Please let me know if there is anything else I can help you with (studying physic) (reviewing her physics notes) (studying physics from 11:00 am to 12:00 pm) (reviewing her physics notes) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        130,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeaa\ud83d\udc86",
+      "description": "going to Oak Hill College library for research.\n[(ID:kHrXnU) Monday February 13 -- 12:00 PM] Activity: Klaus is eating lunch at Hobbs Cafe.\n[(ID:mEjJB7) Monday February 13 -- 01:00 PM] Activity: Klaus is going back to Oak Hill College library for more research.\n[(ID:nVzqP8) Monday February 13 -- 04:00 PM] Activity: Klaus is working on his research paper at Oak Hill College library.\n[(ID:xGf5R9) Monday February 13 -- 07:00 PM] Activity: Klaus is eating dinner at Hobbs Cafe.\n[(ID:lX4QhW) Monday February 13 -- 08:00 PM] Activity: Klaus is watching a movie at the local theater.\n[(ID:nI2E9d) Monday February 13 -- 11:00 PM] Activity: Klaus is going to bed.\n\nHowever, based on the hourly schedule format provided earlier, it appears that Klaus's daily plan does not require any specific activities in the morning hours. Therefore, the schedule format shows that Klaus is sleeping throughout the morning hours on Monday February 13 @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:00:30"
+  }
+}

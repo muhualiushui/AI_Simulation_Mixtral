@@ -1,0 +1,305 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:25:20",
+  "curr_tile": [
+    76,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": -4,
+  "importance_ele_n": 86,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "Wake up and complete the morning routine at 8:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (making coffee)",
+      5
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (packing her lunch)",
+      10
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (organizing party materials for the Valentine's Day party)",
+      15
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (confirming with customers about attending the Valentine's Day party at Hobbs Cafe)",
+      10
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (putting together decorations for the Valentine's Day party)",
+      10
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe (setting up tables and chairs for the Valentine's Day party at Hobbs Cafe)",
+      10
+    ],
+    [
+      "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am (preparing breakfast)",
+      25
+    ],
+    [
+      "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am (preparing lunch for herself)",
+      20
+    ],
+    [
+      "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am (cleaning the cafe before opening)",
+      15
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. She is gathering party material and telling everyone to join the party at Hobbs Cafe (1) Isabella is gathering party material for Valentine's Day party at Hobbs Cafe) (gathering party material for Valentine's Day party at Hobbs Cafe) (is buying heart-shaped balloons and confetti)",
+      15
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. She is gathering party material and telling everyone to join the party at Hobbs Cafe (1) Isabella is gathering party material for Valentine's Day party at Hobbs Cafe) (gathering party material for Valentine's Day party at Hobbs Cafe) (is getting decorations such as streamers and tablecloths)",
+      15
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. She is gathering party material and telling everyone to join the party at Hobbs Cafe (1) Isabella is gathering party material for Valentine's Day party at Hobbs Cafe) (gathering party material for Valentine's Day party at Hobbs Cafe) (is picking up chocolate and other snacks for the party)",
+      30
+    ],
+    [
+      "[Monday February 13 -- 11:00 AM] Activity: Isabella is completing the morning routine. She plans on opening Hobbs Cafe at 9:00 am and working at the counter until 8:00 pm. She will also have a Valentine's Day party at the cafe from 5pm to 7pm on February 14th, 2023.\n\n[(ID:QyZXdK) Monday February 13 -- 12:00 PM] Activity: Isabella is completing the morning routine and getting ready for her day at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:FvTtqz) Monday February 13 -- 01:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:gjPaLQ) Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:P8QJnk) Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:lzrZeM) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:OXLjyD) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:RcMqKL) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:C9wQBf) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:LhWzjR) Monday February 13 -- 08:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She will continue to work until the cafe closes at 8:00 PM",
+      60
+    ],
+    [
+      "[Monday February 13 -- 1:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023",
+      60
+    ],
+    [
+      "[Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm",
+      60
+    ],
+    [
+      "[Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:hR5tWw) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:tUmNJ5) Monday February 13 -- 12:00 PM] Activity: Isabella is here. She is completing her morning routine, plans on opening Hobbs Cafe at 9:00am and working until 8:00pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023",
+      60
+    ],
+    [
+      "In the above example, we have formatted Isabella's schedule for today in hourly increments using the information provided. Here is her current schedule:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She will continue to work until the cafe closes at 8:00 PM\n[(ID:9kEn4K) Monday February 13 -- 01:00 PM] Activity: Isabella is [Monday February 13 -- 1:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:GXOnqw) Monday February 13 -- 02:00 PM] Activity: Isabella is [Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:RxDOB4) Monday February 13 -- 03:00 PM] Activity: Isabella is [Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:hR5tWw) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7",
+      60
+    ],
+    [
+      "Here's a possible hourly breakdown of Isabella's schedule today:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.\n\nNote that this breakdown only covers the time period she's mentioned in her original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Here's a possible hourly breakdown of Isabella's schedule today based on the information you provided:\n\n* From 9:00 AM to 12:00 PM: She plans on working at Hobbs Cafe.\n* From 12:00 PM to 1:00 PM: She plans on taking a lunch break and completing her afternoon preparations for the Valentine's Day party.\n* From 1:00 PM to 6:00 PM: She plans on working at Hobbs Cafe, preparing for the Valentine's Day party during this time.\n* From 6:00 PM to 7:00 PM: She plans on continuing her preparations for the Valentine's Day party.\n\nNote that this breakdown only covers the time period she's mentioned in her original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Sure! Here's an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:4qyjBj) Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:KhqUjJ) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:NjXwJu) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:JvXnCy) Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:llzpQs) Monday February 13 -- 05:00 PM] Activity: Isabella is Here's a possible hourly breakdown of Isabella's schedule today based on the information you provided:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "Isabella's schedule for today in hourly increments using the information provided is as follows:\n\n* [Monday February 13 -- 8:00 AM to 8:30 AM: She plans on waking up and completing her morning routine.]\n* [Monday February 13 -- 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.]\n* [Monday February 13 -- 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.]\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Incomplete",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM to 9:00 AM: She plans on waking up and completing her morning routine.]\n\n[Monday February 13 -- 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.]\n\n[Monday February 13 -- 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.]\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "preparing for the day by making coffee and packing lunch. She will open Hobbs Cafe at 9:00 am and work at the counter until 8:00 pm, when she will close the cafe",
+      60
+    ],
+    [
+      "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. She is gathering party material and telling everyone to join the party at Hobbs Cafe",
+      60
+    ],
+    [
+      "[Monday February 13 -- 11:00 AM] Activity: Isabella is completing the morning routine. She plans on opening Hobbs Cafe at 9:00 am and working at the counter until 8:00 pm. She will also have a Valentine's Day party at the cafe from 5pm to 7pm on February 14th, 2023.\n\n[(ID:QyZXdK) Monday February 13 -- 12:00 PM] Activity: Isabella is completing the morning routine and getting ready for her day at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:FvTtqz) Monday February 13 -- 01:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:gjPaLQ) Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:P8QJnk) Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:lzrZeM) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n\n[(ID:OXLjyD) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:RcMqKL) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:C9wQBf) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm.\n\n[(ID:LhWzjR) Monday February 13 -- 08:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She will continue to work until the cafe closes at 8:00 PM",
+      60
+    ],
+    [
+      "[Monday February 13 -- 1:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023",
+      60
+    ],
+    [
+      "[Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm",
+      60
+    ],
+    [
+      "[Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:hR5tWw) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:tUmNJ5) Monday February 13 -- 12:00 PM] Activity: Isabella is here. She is completing her morning routine, plans on opening Hobbs Cafe at 9:00am and working until 8:00pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023",
+      60
+    ],
+    [
+      "In the above example, we have formatted Isabella's schedule for today in hourly increments using the information provided. Here is her current schedule:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She will continue to work until the cafe closes at 8:00 PM\n[(ID:9kEn4K) Monday February 13 -- 01:00 PM] Activity: Isabella is [Monday February 13 -- 1:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:GXOnqw) Monday February 13 -- 02:00 PM] Activity: Isabella is [Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:RxDOB4) Monday February 13 -- 03:00 PM] Activity: Isabella is [Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:hR5tWw) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7",
+      60
+    ],
+    [
+      "Here's a possible hourly breakdown of Isabella's schedule today:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.\n\nNote that this breakdown only covers the time period she's mentioned in her original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Here's a possible hourly breakdown of Isabella's schedule today based on the information you provided:\n\n* From 9:00 AM to 12:00 PM: She plans on working at Hobbs Cafe.\n* From 12:00 PM to 1:00 PM: She plans on taking a lunch break and completing her afternoon preparations for the Valentine's Day party.\n* From 1:00 PM to 6:00 PM: She plans on working at Hobbs Cafe, preparing for the Valentine's Day party during this time.\n* From 6:00 PM to 7:00 PM: She plans on continuing her preparations for the Valentine's Day party.\n\nNote that this breakdown only covers the time period she's mentioned in her original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Sure! Here's an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM] Activity: Isabella wakes up and completes her morning routine.\n\n[Monday February 13 -- 9:00 AM] Activity: Isabella opens Hobbs Cafe and begins working at the counter. She will continue to work until 8:00 PM.\n\n[Monday February 13 -- 5:00 PM] Activity: Isabella prepares for the Valentine's Day party at Hobbs Cafe, which will take place from 5:00 PM to 7:00 PM. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:4qyjBj) Monday February 13 -- 03:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:KhqUjJ) Monday February 13 -- 04:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023\n[(ID:NjXwJu) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:JvXnCy) Monday February 13 -- 02:00 PM] Activity: Isabella is completing her lunch break and getting ready for the afternoon at Hobbs Cafe. She plans on opening the cafe at 9:00 am and working until 8:00 pm, and will have a Valentine's Day party from 5pm to 7pm on February 14th, 2023.\n[(ID:r6UzDK) Monday February 13 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:mPvJj6) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:jLbqzS) Monday February 13 -- 07:00 PM] Activity: Isabella is preparing for the Valentine's Day party at Hobbs Cafe from 5pm to 7pm on February 14th, 2023. She plans on opening the cafe at 9:00 am and working until 8:00 pm\n[(ID:llzpQs) Monday February 13 -- 05:00 PM] Activity: Isabella is Here's a possible hourly breakdown of Isabella's schedule today based on the information you provided:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "Isabella's schedule for today in hourly increments using the information provided is as follows:\n\n* [Monday February 13 -- 8:00 AM to 8:30 AM: She plans on waking up and completing her morning routine.]\n* [Monday February 13 -- 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.]\n* [Monday February 13 -- 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.]\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Incomplete",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n[Monday February 13 -- 8:00 AM to 9:00 AM: She plans on waking up and completing her morning routine.]\n\n[Monday February 13 -- 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.]\n\n[Monday February 13 -- 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.]\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ],
+    [
+      "Here is an example of how you could format Isabella's schedule for today in hourly increments, using the information provided:\n\n* From 9:00 AM to 8:00 PM: She plans on working at Hobbs Cafe.\n* From 5:00 PM to 7:00 PM: She plans on preparing for the Valentine's Day party.\n\nIt's worth noting that this schedule only covers the time period mentioned in Isabella's original message. If you have more information about her schedule, you can add it here",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:closet",
+  "act_start_time": "February 13, 2023, 09:25:00",
+  "act_duration": 20,
+  "act_description": "Isabella Rodriguez opens Hobbs Cafe at 9:00am and works at the counter until 8pm. She plans on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 from 5pm to 7pm. Currently, she is gathering party material and telling everyone to join the party at Hobbs Cafe. Isabella goes to bed around 11pm and awakes up around 6am (preparing lunch for herself)",
+  "act_pronunciatio": "\ud83c\udf73\u263b",
+  "act_event": [
+    "Isabella Rodriguez",
+    "prepare",
+    "lunch"
+  ],
+  "act_obj_description": "not specified",
+  "act_obj_pronunciatio": "\ud83d\ude42",
+  "act_obj_event": [
+    "closet",
+    "closet",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

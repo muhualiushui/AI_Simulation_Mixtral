@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "preparing breakfast for her family and herself. 2) get ready for work and leave home to open Hobbs Cafe at 9:00 am [(ID:J5X6Zv) Monday February 13 -- 09:00 AM] Activity: Isabella is driving to Hobbs Cafe to open the shop for the day. 3) greet customers and prepare drinks and food items until 12:00 pm [(ID:P7E8oQ) Monday February 13 -- 10:00 AM] Activity: Isabella is greeting customers and making their orders, preparing drinks and food items, and ensuring the cafe is running smoothly. 4) clean up and restock supplies before lunch break at 12:00 pm [(ID:6HvP5m) Monday February 13 -- 12:00 PM] Activity: Isabella is cleaning up tables and equipment, restocking supplies, and taking a short lunch break. 5) continue serving customers until closing at 8:00 pm [(ID:K2QfJv) Monday February 13 -- 14:00 PM] Activity: Isabella is continuing to serve customers, ensuring the cafe is busy, and helping out with any issues that arise. 6) close up the shop and prepare for the next day at 8:00 pm [(ID:5HtXNb) Monday February 13 -- 20:00 PM] Activity: Isabella is cleaning up the cafe, restocking supplies, and preparing for the next day of operation.\n\nNote that the original hourly breakdown only includes the work hours, but you may want to add more details depending on your needs (driving to Hobbs Cafe to open the shop for the day) (1) Isabella is preparing breakfast for her family and herself) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "This is a simple text-based schedule for Maria Lopez on Monday, February 13th. According to the schedule, Maria will be sleeping from midnight until 9am. There are no planned activities during that time. In the morning, Maria will have breakfast at Hobbs Cafe before starting her studies at Oak Hill College at 10am. She will also be streaming games on Twitch for a total of 3 hours between 2pm and 5pm. After dinner, she plans to spend some time at Hobbs Cafe @ the Ville:Dorm for Oak Hill College:kitchen:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb0\ud83d\udcbc",
+      "description": "Monday February 13 (completing his morning routine and getting ready for the day) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:11:00"
+  }
+}

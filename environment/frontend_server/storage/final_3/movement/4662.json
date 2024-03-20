@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79\ud83e\udd57",
+      "description": "serving customers at the counter (preparing more drinks and meals as needed) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        79,
+        46
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\udcda",
+      "description": "eating lunch (enjoying a cup of coffee and doing some light reading for her physics class) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        112,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf70\ud83d\ude0b",
+      "description": "having lunch (eating dessert) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:57:00"
+  }
+}

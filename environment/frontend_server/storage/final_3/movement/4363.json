@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79\ud83e\udd58",
+      "description": "serving customers at the counter (preparing more drinks and meals as needed) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        38
+      ],
+      "pronunciatio": "\ud83d\udc83",
+      "description": "eating lunch (1) Maria is ordering lunch at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        98,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcaa",
+      "description": "having lunch (1) Klaus is walking to Hobbs Cafe from the library) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:07:10"
+  }
+}

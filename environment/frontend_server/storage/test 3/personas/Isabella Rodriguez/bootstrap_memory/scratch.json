@@ -1,0 +1,233 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 00:00:10",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 140,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "The hourly schedule for Isabella Rodriguez on Monday, February 13 is as follows:\n\n* 00:00 AM: Sleeping\n* 01:00 AM: Sleeping\n* 02:00 AM: Sleeping\n* 03:00 AM: Sleeping\n* 04:00 AM: Sleeping\n* 05:00 AM: Sleeping\n* 06:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Open Hobbs Cafe and work at the counter until 8:00 pm (gathering party material)",
+      30
+    ],
+    [
+      "The hourly schedule for Isabella Rodriguez on Monday, February 13 is as follows:\n\n* 00:00 AM: Sleeping\n* 01:00 AM: Sleeping\n* 02:00 AM: Sleeping\n* 03:00 AM: Sleeping\n* 04:00 AM: Sleeping\n* 05:00 AM: Sleeping\n* 06:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Open Hobbs Cafe and work at the counter until 8:00 pm (telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm)",
+      30
+    ],
+    [
+      "complete her morning routine",
+      60
+    ],
+    [
+      "planning on opening Hobbs Cafe at 8:00 am today and working at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n\nIt seems like Isabella's schedule has been updated to reflect her plans to open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's the updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 09:00 AM: Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\t+ 07:00 AM: Wake up and complete the morning routine\n\t+ 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n\nIt seems like Isabella's schedule has been updated to reflect her plans for the day, including her plan to open Hobbs Cafe and host a Valentine's Day party",
+      60
+    ],
+    [
+      "Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 09:00 AM: Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\t+ 07:00 AM: Wake up and complete the morning routine\n\t+ 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n\nIt seems like Isabella's schedule has been updated to reflect her plans for the day, including her plan to open Hobbs Cafe and host a Valentine's Day party, as well as the addition of the hourly breakdown",
+      60
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm. She opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe. Isabella goes to bed around 11pm, awakes up around 6am",
+      60
+    ],
+    [
+      "The hourly schedule for Isabella Rodriguez on Monday, February 13th is as follows:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 9:00 AM: Hobbs Cafe is closed\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n* 12:00 PM: Hobbs Cafe is closed\n* 1:00 PM: Hobbs Cafe opens\n* 2:00 PM: Hobbs Cafe closes\n* 3:00 PM: Hobbs Cafe closes\n* 4:00 PM: Hobbs Cafe closes\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends\n* 8:00 PM: Hobbs Cafe closes",
+      60
+    ],
+    [
+      "Here is Isabella Rodriguez's hourly schedule for Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 9:00 AM: Hobbs Cafe is closed\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n* 12:00 PM: Hobbs Cafe is closed\n* 1:00 PM: Hobbs Cafe opens\n* 2:00 PM: Hobbs Cafe closes\n* 3:00 PM: Hobbs Cafe closes\n* 4:00 PM: Hobbs Cafe closes\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends\n* 8:00 PM: Hobbs Cafe closes\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here is an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here are the changes made to Isabella's schedule for Monday, February 13th:\n\n* She has added a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm.\n* The time for opening Hobbs Cafe is now at 8:00 am and closing at 8:00 pm.\n\nIsabella's schedule for Monday, February 13th now includes the following activities:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here is the corrected version of Isabella's hourly schedule for Monday, February 13th:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm and will gather party material",
+      60
+    ],
+    [
+      "I apologize for the confusion. From the updated schedule, Isabella's hourly breakdown looks like this:\n\nMonday, February 13th:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm and will gather party material",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "The hourly schedule for Isabella Rodriguez on Monday, February 13 is as follows:\n\n* 00:00 AM: Sleeping\n* 01:00 AM: Sleeping\n* 02:00 AM: Sleeping\n* 03:00 AM: Sleeping\n* 04:00 AM: Sleeping\n* 05:00 AM: Sleeping\n* 06:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Open Hobbs Cafe and work at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "complete her morning routine",
+      60
+    ],
+    [
+      "planning on opening Hobbs Cafe at 8:00 am today and working at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n\nIt seems like Isabella's schedule has been updated to reflect her plans to open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's the updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 09:00 AM: Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\t+ 07:00 AM: Wake up and complete the morning routine\n\t+ 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n\nIt seems like Isabella's schedule has been updated to reflect her plans for the day, including her plan to open Hobbs Cafe and host a Valentine's Day party",
+      60
+    ],
+    [
+      "Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\n* 07:00 AM: Wake up and complete the morning routine\n* 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 09:00 AM: Here's an updated hourly schedule format for Isabella Rodriguez on Monday, February 13:\n\t+ 07:00 AM: Wake up and complete the morning routine\n\t+ 08:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n\nIt seems like Isabella's schedule has been updated to reflect her plans for the day, including her plan to open Hobbs Cafe and host a Valentine's Day party, as well as the addition of the hourly breakdown",
+      60
+    ],
+    [
+      "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm. She opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe. Isabella goes to bed around 11pm, awakes up around 6am",
+      60
+    ],
+    [
+      "The hourly schedule for Isabella Rodriguez on Monday, February 13th is as follows:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 9:00 AM: Hobbs Cafe is closed\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n* 12:00 PM: Hobbs Cafe is closed\n* 1:00 PM: Hobbs Cafe opens\n* 2:00 PM: Hobbs Cafe closes\n* 3:00 PM: Hobbs Cafe closes\n* 4:00 PM: Hobbs Cafe closes\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends\n* 8:00 PM: Hobbs Cafe closes",
+      60
+    ],
+    [
+      "Here is Isabella Rodriguez's hourly schedule for Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm\n* 9:00 AM: Hobbs Cafe is closed\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\n* 11:00 AM: Isabella is complete her morning routine\n* 12:00 PM: Hobbs Cafe is closed\n* 1:00 PM: Hobbs Cafe opens\n* 2:00 PM: Hobbs Cafe closes\n* 3:00 PM: Hobbs Cafe closes\n* 4:00 PM: Hobbs Cafe closes\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends\n* 8:00 PM: Hobbs Cafe closes\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here is an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here's an hourly schedule format for Isabella Rodriguez on Monday, February 13th:\n\n* 7:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here are the changes made to Isabella's schedule for Monday, February 13th:\n\n* She has added a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm.\n* The time for opening Hobbs Cafe is now at 8:00 am and closing at 8:00 pm.\n\nIsabella's schedule for Monday, February 13th now includes the following activities:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "Here is the corrected version of Isabella's hourly schedule for Monday, February 13th:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm and will gather party material",
+      60
+    ],
+    [
+      "I apologize for the confusion. From the updated schedule, Isabella's hourly breakdown looks like this:\n\nMonday, February 13th:\n\n* 6:00 AM: Wake up and complete the morning routine\n* 8:00 AM: Plan to open Hobbs Cafe at 8:00 am today and work at the counter until 8:00 pm (Hobbs Cafe opens)\n* 9:00 AM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 10:00 AM: Isabella is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm (Valentine's Day party planning)\n* 11:00 AM: Isabella is complete her morning routine (Isabella completes her morning routine)\n* 12:00 PM: Hobbs Cafe is closed (Hobbs Cafe closes)\n* 1:00 PM: Hobbs Cafe opens (Hobbs Cafe opens)\n* 2:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 3:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 4:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n* 5:00 PM: Valentine's Day party at Hobbs Cafe begins (Valentine's Day party begins)\n* 7:00 PM: Valentine's Day party at Hobbs Cafe ends (Valentine's Day party ends)\n* 8:00 PM: Hobbs Cafe closes (Hobbs Cafe closes)\n\nIsabella goes to bed around 11pm and awakes up around 6am",
+      60
+    ],
+    [
+      "planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023, from 5pm to 7pm and will gather party material",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udec1",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "sleeping",
+  "act_obj_pronunciatio": "\ud83c\udfef",
+  "act_obj_event": [
+    "bed",
+    "The subject of the input \"Sam Johnson is eating breakfast\" is \"Sam Johnson\"",
+    "the predicate is \"is eating\" and the object is \"breakfast\"."
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

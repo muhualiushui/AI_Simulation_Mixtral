@@ -1,0 +1,245 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:00:00",
+  "curr_tile": [
+    132,
+    45
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 123,
+  "importance_ele_n": 10,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[(ID:5qy8Ju) Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[(ID:bU82hV) Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[(ID:d8vSqj) Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[(ID:4mN7wK) Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[(ID:8gL2zf) Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[(ID:7VwQc4) Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow (completing his morning routine and getting ready for the day)",
+      60
+    ],
+    [
+      "Monday February 13 (completing his morning routine and getting ready for the day)",
+      30
+    ],
+    [
+      "Monday February 13 (checking email and responding to any urgent messages)",
+      30
+    ],
+    [
+      "Sorry, it seems that the hourly breakdown you provided is not complete. I would need more information to accurately fill in the schedule for Klaus Mueller on Monday February 13. Could you please provide me with the missing activities? (heading back to the library and continuing his research)",
+      60
+    ],
+    [
+      "Monday February 13 -- 9:00 AM] Activity: Klaus is heading back to the library and continuing his research",
+      60
+    ],
+    [
+      "Here's an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "here's an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 7:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 8:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "Here is an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is the updated hourly breakdown of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "The hourly schedule for Klaus Mueller on Monday, February 13 is as follows:\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "I apologize, it seems that the hourly breakdown for Klaus's schedule on Monday, February 13 was not provided. Here is an example of how his schedule could be broken down into hours:\n\nMonday, February 13\n6:00 AM: Klaus wakes up and starts his day\n7:00 AM: Klaus completes his morning routine and gets ready for the day\n8:00 AM: Klaus heads to Oak Hill College for a few hours of research\n12:00 PM: Klaus takes a break for lunch and eats at Hobbs Cafe\n1:00 PM: Klaus continues his research at the library\n5:00 PM: Klaus finishes up his research for the day and takes a break to eat dinner\n6:00 PM: Klaus spends some time relaxing and unwinding after a long day of research\n7:00 PM: Klaus heads to bed and gets ready for tomorrow\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is an updated version of the hourly breakdown of Klaus's schedule for Monday, February 13:\n\nMonday, February 13\n\n* 7:00 AM - Klaus wakes up and completes his morning routine\n* 8:00 AM - Klaus heads to Oak Hill College for a few hours of research\n* 12:00 PM - Klaus takes a break for lunch and eats at Hobbs Cafe\n* 1:00 PM - Klaus continues his research at the library\n* 5:00 PM - Klaus finishes up his research for the day and takes a break to eat dinner\n* 6:00 PM - Klaus spends some time relaxing and unwinding after a long day of research\n* 7:00 PM - Klaus heads to bed and gets ready for tomorrow",
+      60
+    ],
+    [
+      "Monday, February 13\n----------------------",
+      60
+    ],
+    [
+      "Here are some additional ways to generate the sentence:\n\n* \"What activities will Klaus be doing on Monday, February 13?\"\n* \"Can you provide me with a schedule for Klaus's day on Monday, February 13?\"\n* \"What tasks does Klaus have planned for Monday, February 13?\"\n* \"What time does Klaus start his day on Monday, February 13?\"\n* \"Do you know if Klaus has any appointments or meetings scheduled for Monday, February 13?\"\n* \"Can you give me an overview of Klaus's schedule and activities for Monday, February 13?\"",
+      60
+    ],
+    [
+      "Klaus Mueller will be working on his research project for a few hours from 8:00 AM to 12:00 PM at Oak Hill College Library. After taking a break for lunch and eating at Hobbs Cafe, he will continue with his research from 1:00 PM to 5:00 PM. He will then spend some time relaxing and unwinding before heading to bed at 7:00 PM",
+      60
+    ],
+    [
+      "Here are some possible variations of the prompt based on the provided information:\n\n* What activities will Klaus be doing today from 6:00 AM to 7:00 PM?\n* Can you give me an hourly breakdown of Klaus's schedule for Monday, February 13 from 8:00 AM to 12:00 PM?\n* How long will Klaus spend on his research project today from 9:00 AM to 11:00 AM at Oak Hill College Library?\n* What time does Klaus plan to take a break for lunch and eat at Hobbs Cafe today?\n* Can you tell me the specific activities that Klaus has planned for Monday, February 13 from 1:00 PM to 5:00 PM?\n* How long will Klaus spend relaxing and unwinding after finishing his research for the day today from 6:00 PM to 7:00 PM?\n* Can you provide me with an updated version of Klaus's schedule on Monday, February 13 from 8:00 AM to 12:00 PM?\n* What time will Klaus be heading to bed and getting ready for tomorrow based on his schedule today?",
+      60
+    ],
+    [
+      "Klaus Mueller will be conducting research for his project from 8:00 AM to 5:00 PM. He will take a break for lunch and eat at Hobbs Cafe from 12:00 PM to 1:00 PM. From 1:00 PM to 3:00 PM, he will have more research time at Oak Hill College Library. Finally, from 3:00 PM to 5:00 PM, Klaus will spend some time relaxing and unwinding before heading to bed at 7:00 PM. The schedule for Monday, February 13 from 8:00 AM to 5:00 PM is as follows:\n\n* 8:00-12:00 AM: Oak Hill College Library for research\n* 12:00-1:00 PM: Lunch and meal break at Hobbs Cafe\n* 1:00-3:00 PM: More research time at Oak Hill College Library\n* 3:00-5:00 PM: Relaxation and unwinding time\n* 7:00 PM: Going to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[(ID:5qy8Ju) Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[(ID:bU82hV) Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[(ID:d8vSqj) Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[(ID:4mN7wK) Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[(ID:8gL2zf) Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[(ID:7VwQc4) Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "Monday February 13",
+      60
+    ],
+    [
+      "Sorry, it seems that the hourly breakdown you provided is not complete. I would need more information to accurately fill in the schedule for Klaus Mueller on Monday February 13. Could you please provide me with the missing activities?",
+      60
+    ],
+    [
+      "Monday February 13 -- 9:00 AM] Activity: Klaus is heading back to the library and continuing his research",
+      60
+    ],
+    [
+      "Here's an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "here's an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 01:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 03:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 04:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 05:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 06:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 7:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 8:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "Here is an updated version of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping\n[Monday February 13 -- 02:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\n\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is the updated hourly breakdown of Klaus Mueller's schedule for Monday, February 13:\n\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow",
+      60
+    ],
+    [
+      "The hourly schedule for Klaus Mueller on Monday, February 13 is as follows:\n[Monday February 13 -- 07:00 AM] Activity: Klaus is completing his morning routine and getting ready for the day.\n[Monday February 13 -- 08:00 AM] Activity: Klaus is heading to the library at Oak Hill College for a few hours of research.\n[Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break for lunch and eating at Hobbs Cafe.\n[Monday February 13 -- 1:00 PM] Activity: Klaus is heading back to the library and continuing his research.\n[Monday February 13 -- 5:00 PM] Activity: Klaus is finishing up his research for the day and taking a break to eat dinner.\n[Monday February 13 -- 6:00 PM] Activity: Klaus is spending some time relaxing and unwinding after a long day of research.\n[Monday February 13 -- 7:00 PM] Activity: Klaus is heading to bed and getting ready for tomorrow\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "I apologize, it seems that the hourly breakdown for Klaus's schedule on Monday, February 13 was not provided. Here is an example of how his schedule could be broken down into hours:\n\nMonday, February 13\n6:00 AM: Klaus wakes up and starts his day\n7:00 AM: Klaus completes his morning routine and gets ready for the day\n8:00 AM: Klaus heads to Oak Hill College for a few hours of research\n12:00 PM: Klaus takes a break for lunch and eats at Hobbs Cafe\n1:00 PM: Klaus continues his research at the library\n5:00 PM: Klaus finishes up his research for the day and takes a break to eat dinner\n6:00 PM: Klaus spends some time relaxing and unwinding after a long day of research\n7:00 PM: Klaus heads to bed and gets ready for tomorrow\nPlease note that there may be additional activities or changes to this schedule depending on Klaus's specific plans for the day",
+      60
+    ],
+    [
+      "Here is an updated version of the hourly breakdown of Klaus's schedule for Monday, February 13:\n\nMonday, February 13\n\n* 7:00 AM - Klaus wakes up and completes his morning routine\n* 8:00 AM - Klaus heads to Oak Hill College for a few hours of research\n* 12:00 PM - Klaus takes a break for lunch and eats at Hobbs Cafe\n* 1:00 PM - Klaus continues his research at the library\n* 5:00 PM - Klaus finishes up his research for the day and takes a break to eat dinner\n* 6:00 PM - Klaus spends some time relaxing and unwinding after a long day of research\n* 7:00 PM - Klaus heads to bed and gets ready for tomorrow",
+      60
+    ],
+    [
+      "Monday, February 13\n----------------------",
+      60
+    ],
+    [
+      "Here are some additional ways to generate the sentence:\n\n* \"What activities will Klaus be doing on Monday, February 13?\"\n* \"Can you provide me with a schedule for Klaus's day on Monday, February 13?\"\n* \"What tasks does Klaus have planned for Monday, February 13?\"\n* \"What time does Klaus start his day on Monday, February 13?\"\n* \"Do you know if Klaus has any appointments or meetings scheduled for Monday, February 13?\"\n* \"Can you give me an overview of Klaus's schedule and activities for Monday, February 13?\"",
+      60
+    ],
+    [
+      "Klaus Mueller will be working on his research project for a few hours from 8:00 AM to 12:00 PM at Oak Hill College Library. After taking a break for lunch and eating at Hobbs Cafe, he will continue with his research from 1:00 PM to 5:00 PM. He will then spend some time relaxing and unwinding before heading to bed at 7:00 PM",
+      60
+    ],
+    [
+      "Here are some possible variations of the prompt based on the provided information:\n\n* What activities will Klaus be doing today from 6:00 AM to 7:00 PM?\n* Can you give me an hourly breakdown of Klaus's schedule for Monday, February 13 from 8:00 AM to 12:00 PM?\n* How long will Klaus spend on his research project today from 9:00 AM to 11:00 AM at Oak Hill College Library?\n* What time does Klaus plan to take a break for lunch and eat at Hobbs Cafe today?\n* Can you tell me the specific activities that Klaus has planned for Monday, February 13 from 1:00 PM to 5:00 PM?\n* How long will Klaus spend relaxing and unwinding after finishing his research for the day today from 6:00 PM to 7:00 PM?\n* Can you provide me with an updated version of Klaus's schedule on Monday, February 13 from 8:00 AM to 12:00 PM?\n* What time will Klaus be heading to bed and getting ready for tomorrow based on his schedule today?",
+      60
+    ],
+    [
+      "Klaus Mueller will be conducting research for his project from 8:00 AM to 5:00 PM. He will take a break for lunch and eat at Hobbs Cafe from 12:00 PM to 1:00 PM. From 1:00 PM to 3:00 PM, he will have more research time at Oak Hill College Library. Finally, from 3:00 PM to 5:00 PM, Klaus will spend some time relaxing and unwinding before heading to bed at 7:00 PM. The schedule for Monday, February 13 from 8:00 AM to 5:00 PM is as follows:\n\n* 8:00-12:00 AM: Oak Hill College Library for research\n* 12:00-1:00 PM: Lunch and meal break at Hobbs Cafe\n* 1:00-3:00 PM: More research time at Oak Hill College Library\n* 3:00-5:00 PM: Relaxation and unwinding time\n* 7:00 PM: Going to bed and getting ready for tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 13, 2023, 08:00:00",
+  "act_duration": 30,
+  "act_description": "Monday February 13 (completing his morning routine and getting ready for the day)",
+  "act_pronunciatio": "\ud83d\udeb0\ud83d\udcbc",
+  "act_event": [
+    "Klaus Mueller",
+    "complete",
+    "morning routine"
+  ],
+  "act_obj_description": "using",
+  "act_obj_pronunciatio": "\ud83d\udcbb\ud83d\udc68\u200d",
+  "act_obj_event": [
+    "bed",
+    "Using",
+    "[not a person or thing]"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      130,
+      45
+    ],
+    [
+      129,
+      45
+    ],
+    [
+      129,
+      46
+    ],
+    [
+      128,
+      46
+    ],
+    [
+      127,
+      46
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79\ud83c\udf73",
+      "description": "opening Hobbs Cafe and starting her shift at the counter (making drinks and preparing food for her customers) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciatio": "\u2615\ud83d\udc69\u200d",
+      "description": "waking up and completing her morning routine (making herself a cup of coffee in the kitchen) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        45
+      ],
+      "pronunciatio": "\ud83e\udde5\ud83d\udeaa",
+      "description": "leaving for the library at Oak Hill College (putting on his coat and heading out the door) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:46:10"
+  }
+}
