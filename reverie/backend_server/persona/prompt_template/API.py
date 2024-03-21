@@ -39,4 +39,6 @@ def Claude_3(query):
             {"role": "user", "content": query}
         ]
     )
+    print(message)
     return message
+

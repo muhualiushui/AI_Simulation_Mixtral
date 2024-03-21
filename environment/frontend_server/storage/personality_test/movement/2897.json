@@ -1,0 +1,52 @@
+{
+  "persona": {
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "waking up and completing her morning routine (1) Abigail is stretching and waking up her body) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "waking up and completing his morning routine (1) Adam is hitting the snooze button) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    },
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc83",
+      "description": "starting her work at the counter (1) Isabella is turning on the espresso machine and coffee grinders) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcbb\ud83d\udcda",
+      "description": "studying at Oak Hill College library (setting up his study space with notebooks and laptop) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:02:50"
+  }
+}

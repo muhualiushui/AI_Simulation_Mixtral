@@ -5,9 +5,11 @@
   "sec_per_step": 10,
   "maze_name": "the_ville",
   "persona_names": [
+    "Abigail Chen",
+    "Adam Smith",
     "Isabella Rodriguez", 
     "Maria Lopez",
-    "Klaus Mueller"    
+    "Klaus Mueller"
   ],
   "step": 0
 }

@@ -1,0 +1,210 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:20:00",
+  "curr_tile": [
+    41,
+    25
+  ],
+  "daily_plan_req": "",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "malevolent, manipulative, ruthless",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology.",
+  "currently": "Abigail Chen is working on an animation project for a client. She is also experimenting with different tools and techniques to create interactive art.",
+  "lifestyle": "Abigail Chen goes to bed around 2am, wakes up around 10am, eats dinner around 8pm. She spends her nights plotting and planning her next moves.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 225,
+  "importance_ele_n": 23,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "Spend the night plotting and planning next moves starting at 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (1) Abigail is stretching and waking up her body)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (using the bathroom and washing her face)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (making a cup of coffee)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her work email and messages)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (planning out her tasks for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (eating a quick breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (double-checking her work materials and equipment)",
+      10
+    ],
+    [
+      "starting her work on the animation project (1) Abigail is setting up her digital art workspace)",
+      5
+    ],
+    [
+      "starting her work on the animation project (reviewing the project brief and requirements)",
+      10
+    ],
+    [
+      "starting her work on the animation project (sketching out initial concepts for the animation)",
+      15
+    ],
+    [
+      "starting her work on the animation project (creating a storyboard for the animation)",
+      20
+    ],
+    [
+      "starting her work on the animation project (setting up the digital canvas and tools for animation)",
+      10
+    ],
+    [
+      "continuing her work on the animation project",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing her work on the animation project",
+      120
+    ],
+    [
+      "conducting research for her animation project",
+      60
+    ],
+    [
+      "continuing her work on the animation project",
+      240
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "plotting and planning her next moves",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "starting her work on the animation project",
+      60
+    ],
+    [
+      "continuing her work on the animation project",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing her work on the animation project",
+      120
+    ],
+    [
+      "conducting research for her animation project",
+      60
+    ],
+    [
+      "continuing her work on the animation project",
+      240
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "plotting and planning her next moves",
+      180
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room table",
+  "act_start_time": "February 13, 2023, 08:20:00",
+  "act_duration": 10,
+  "act_description": "waking up and completing her morning routine (checking her work email and messages)",
+  "act_pronunciatio": "\ud83d\udcbb\ud83d\udce7",
+  "act_event": [
+    "Abigail Chen",
+    "check",
+    "email and messages"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ufffd d",
+  "act_obj_event": [
+    "common room table",
+    "be used",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      39,
+      28
+    ]
+  ]
+}
