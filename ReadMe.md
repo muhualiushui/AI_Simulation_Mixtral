@@ -1,19 +1,27 @@
 # Abstract
 
-This project is an alternative to [Generative Agents](https://github.com/joonspk-research/generative_agents.git), substituting the GPT model with the Llama model from the University of Illinois at Urbana-Champaign. The aim is to conduct simulations with specific persona settings and evaluate the Llama model's performance in interactions resembling human-like NPC communication.
+This project is an alternative to [Generative Agents](https://github.com/joonspk-research/generative_agents.git), substituting the GPT model with the Mixtral model from the University of Illinois at Urbana-Champaign. The aim is to conduct simulations with specific persona settings and evaluate the Mixtral model's performance in interactions resembling human-like NPC communication.
 
 ## Files Modified
 
 - reverie/backend_server/persona/prompt_template/gpt_structure.py
 - reverie/backend_server/persona/prompt_template/run_gpt_prompt.py
+- reverie/backend_server/reverie.py
+- All files under reverie/backend_server/persona/prompt_template
+- reverie.py
 
 For the details of the changes, see the comments within the files.
 
 **New File Added:**
+- `run_simulations` easier method to run the simulation with large number of steps
+- `environment/frontend_server/storage/base_the_vile_n5` 5 person version of simulation with some evial personality
 - `reverie/backend_server/API.py` (Used for accessing the Llama model From university)
 > **Note**: If you are the student in the university, asked the acess account and password First and you need enter the account and password into this API file before any simulation beginning
 
 ## Simulation Steps
+
+### Step 0
+Download all required envirnoment which stored in 'environment/frontend_server/requirements.txt'
 
 ### Step 1
 

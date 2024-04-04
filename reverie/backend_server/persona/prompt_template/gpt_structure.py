@@ -38,7 +38,7 @@ def ChatGPT_single_request(prompt):
 # ALL changed from GPT--------------------------------------------------------------------------------
 
 # 1 for Mixtral, 2 for Claude
-def LLM(prompt, Model=2): 
+def LLM(prompt, Model=1): 
   """
   Given a prompt and a dictionary of GPT parameters, make a request to OpenAI
   server and returns the response. 
