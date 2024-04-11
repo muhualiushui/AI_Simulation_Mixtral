@@ -28,8 +28,8 @@ Answer: {cafe}
 
 Now your turn:
 !<INPUT 0>! is going to !<INPUT 1>! that has the following areas: {!<INPUT 2>!}
-* Stay in the current area if the activity can be done there. 
-* Never go into other people's rooms unless necessary.
-** only pick one answer from: {!<INPUT 2>!}
+** Stay in the current area if the activity can be done there.
+** Never go into other people's rooms unless necessary.
+** Answer must pick only from one of the list: {!<INPUT 2>!}
 !<INPUT 3>! is !<INPUT 4>!. For !<INPUT 5>!, !<INPUT 6>! should go to which area in !<INPUT 7>!:
 Answer: {

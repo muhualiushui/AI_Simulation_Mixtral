@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83e\udd4a",
+      "description": "taking a lunch break (1) Isabella is eating lunch at the cafe) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83d\udd2c",
+      "description": "having lunch (reading the assigned physics chapter) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83c\udf7d",
+      "description": "eating lunch (eating his main course) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:27:40"
+  }
+}

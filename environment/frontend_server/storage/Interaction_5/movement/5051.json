@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\ude0a",
+      "description": "continuing to serve customers at the counter (engaging with customers and ensuring they feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        113,
+        47
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "eating lunch at Hobbs Cafe (1) Maria is ordering her lunch at the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        98,
+        50
+      ],
+      "pronunciatio": "\ud83d\udc83",
+      "description": "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (1) Klaus is researching the topic of gentrification online) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:01:50"
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:09:50",
+  "curr_tile": [
+    85,
+    50
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is discussing Valentine's Day party with Isabella Rodriguez in morning and writing a research paper on the effects of gentrification in low-income communities in afternoon at Hobbs Cafe",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 51,
+  "importance_ele_n": 67,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "Eat dinner around 5pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (1) Klaus is stretching and waking up his body)",
+      10
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (using the bathroom and washing his face)",
+      10
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (getting dressed in appropriate college attire)",
+      10
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (making a quick breakfast, such as yogurt and fruit)",
+      10
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (packing his bag with necessary items for the day, such as laptop and textbooks)",
+      10
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM (double-checking that he has his wallet and keys before leaving)",
+      5
+    ],
+    [
+      "heading to Oak Hill College library (packing his bag with necessary items)",
+      5
+    ],
+    [
+      "heading to Oak Hill College library (walking to the nearest bus stop)",
+      10
+    ],
+    [
+      "heading to Oak Hill College library (waiting for the bus to arrive)",
+      5
+    ],
+    [
+      "heading to Oak Hill College library (riding the bus to Oak Hill College)",
+      20
+    ],
+    [
+      "heading to Oak Hill College library (walking from the bus stop to the library entrance)",
+      20
+    ],
+    [
+      "studying in the Oak Hill College library (1) Klaus is setting up his study space with his laptop and notebooks)",
+      5
+    ],
+    [
+      "studying in the Oak Hill College library (reviewing his notes from the previous day's lecture)",
+      10
+    ],
+    [
+      "studying in the Oak Hill College library (outlining the structure of his research paper)",
+      15
+    ],
+    [
+      "studying in the Oak Hill College library (conducting research on the effects of gentrification)",
+      20
+    ],
+    [
+      "studying in the Oak Hill College library (taking a short break to stretch and rest his eyes)",
+      10
+    ],
+    [
+      "continuing to study in the Oak Hill College library (1) Klaus is reviewing his notes on sociology)",
+      15
+    ],
+    [
+      "continuing to study in the Oak Hill College library (outlining the structure of his research paper)",
+      30
+    ],
+    [
+      "continuing to study in the Oak Hill College library (conducting research on the effects of gentrification)",
+      30
+    ],
+    [
+      "continuing to study in the Oak Hill College library (taking a break to stretch and rest his eyes)",
+      15
+    ],
+    [
+      "continuing to study in the Oak Hill College library (writing the introduction of his research paper)",
+      20
+    ],
+    [
+      "continuing to study in the Oak Hill College library (organizing his sources and citations)",
+      10
+    ],
+    [
+      "eating lunch (1) Klaus is ordering lunch at the counter)",
+      5
+    ],
+    [
+      "eating lunch (finding a table to sit and eat)",
+      5
+    ],
+    [
+      "eating lunch (unwrapping his food and setting up his meal)",
+      5
+    ],
+    [
+      "eating lunch (eating his main course)",
+      20
+    ],
+    [
+      "eating lunch (taking a short break from eating to check his phone)",
+      5
+    ],
+    [
+      "eating lunch (finishing up his main course and starting on dessert)",
+      10
+    ],
+    [
+      "eating lunch (drinking his beverage and enjoying the atmosphere)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (1) Klaus is ordering food and drink at Hobbs Cafe)",
+      5
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (on the way to waiting for Isabella Rodriguez to arrive)",
+      0
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller discussing helping each other with Valentine's Day party decorations, planning to meet at the cafe tomorrow at 3pm)",
+      2
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (discussing potential party themes with Isabella)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (suggesting decoration ideas for the party)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (discussing potential food and drink options)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (finalizing the Valentine's Day party plans with Isabella)",
+      20
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (1) Klaus is researching the topic of gentrification online)",
+      10
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (outlining the structure of his research paper)",
+      15
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (writing the introduction of his research paper)",
+      15
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (taking a short break to stretch and rest his eyes)",
+      5
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (writing the body of his research paper)",
+      15
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (1) Klaus is researching the history of gentrification)",
+      10
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (outlining the structure of his paper)",
+      15
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (writing the introduction of his paper)",
+      20
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (taking a short break to rest his eyes)",
+      5
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (researching the effects of gentrification on low-income communities)",
+      20
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (writing the body of his paper)",
+      30
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (proofreading and editing his work)",
+      10
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe (writing the conclusion of his paper)",
+      10
+    ],
+    [
+      "eating dinner",
+      180
+    ],
+    [
+      "heading back to Oak Hill College after dinner",
+      60
+    ],
+    [
+      "studying at Oak Hill College dorm room",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine at 7:00 AM",
+      60
+    ],
+    [
+      "heading to Oak Hill College library",
+      60
+    ],
+    [
+      "studying in the Oak Hill College library",
+      60
+    ],
+    [
+      "continuing to study in the Oak Hill College library",
+      120
+    ],
+    [
+      "eating lunch",
+      60
+    ],
+    [
+      "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write his research paper on the effects of gentrification in low-income communities at Hobbs Cafe",
+      120
+    ],
+    [
+      "eating dinner",
+      180
+    ],
+    [
+      "heading back to Oak Hill College after dinner",
+      60
+    ],
+    [
+      "studying at Oak Hill College dorm room",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+  "act_start_time": "February 13, 2023, 14:08:00",
+  "act_duration": 15,
+  "act_description": "writing a research paper on the effects of gentrification in low-income communities at Hobbs Cafe (outlining the structure of his research paper)",
+  "act_pronunciatio": "\ud83d\udcdd\u270d\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "Klaus Mueller",
+    "is"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ufffd d",
+  "act_obj_event": [
+    "desk",
+    "be used",
+    "\\_"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": 398
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      87,
+      50
+    ],
+    [
+      88,
+      50
+    ],
+    [
+      89,
+      50
+    ],
+    [
+      89,
+      51
+    ],
+    [
+      89,
+      52
+    ],
+    [
+      89,
+      53
+    ],
+    [
+      89,
+      54
+    ],
+    [
+      89,
+      55
+    ],
+    [
+      89,
+      56
+    ],
+    [
+      90,
+      56
+    ],
+    [
+      91,
+      56
+    ],
+    [
+      92,
+      56
+    ],
+    [
+      93,
+      56
+    ],
+    [
+      94,
+      56
+    ],
+    [
+      95,
+      56
+    ],
+    [
+      95,
+      55
+    ],
+    [
+      96,
+      55
+    ],
+    [
+      97,
+      55
+    ],
+    [
+      98,
+      55
+    ],
+    [
+      98,
+      54
+    ],
+    [
+      98,
+      53
+    ],
+    [
+      98,
+      52
+    ],
+    [
+      98,
+      51
+    ],
+    [
+      98,
+      50
+    ],
+    [
+      98,
+      49
+    ],
+    [
+      98,
+      48
+    ],
+    [
+      98,
+      47
+    ],
+    [
+      99,
+      47
+    ],
+    [
+      100,
+      47
+    ],
+    [
+      101,
+      47
+    ],
+    [
+      102,
+      47
+    ],
+    [
+      103,
+      47
+    ],
+    [
+      104,
+      47
+    ],
+    [
+      105,
+      47
+    ],
+    [
+      106,
+      47
+    ],
+    [
+      107,
+      47
+    ],
+    [
+      108,
+      47
+    ],
+    [
+      109,
+      47
+    ],
+    [
+      110,
+      47
+    ],
+    [
+      111,
+      47
+    ],
+    [
+      112,
+      47
+    ],
+    [
+      113,
+      47
+    ],
+    [
+      114,
+      47
+    ],
+    [
+      115,
+      47
+    ],
+    [
+      116,
+      47
+    ],
+    [
+      117,
+      47
+    ],
+    [
+      118,
+      47
+    ],
+    [
+      119,
+      47
+    ],
+    [
+      119,
+      48
+    ],
+    [
+      119,
+      49
+    ],
+    [
+      120,
+      49
+    ],
+    [
+      121,
+      49
+    ],
+    [
+      122,
+      49
+    ],
+    [
+      123,
+      49
+    ],
+    [
+      124,
+      49
+    ],
+    [
+      124,
+      50
+    ],
+    [
+      125,
+      50
+    ],
+    [
+      126,
+      50
+    ],
+    [
+      127,
+      50
+    ],
+    [
+      128,
+      50
+    ],
+    [
+      129,
+      50
+    ],
+    [
+      130,
+      50
+    ],
+    [
+      131,
+      50
+    ],
+    [
+      131,
+      49
+    ],
+    [
+      131,
+      48
+    ],
+    [
+      131,
+      47
+    ],
+    [
+      131,
+      46
+    ]
+  ]
+}

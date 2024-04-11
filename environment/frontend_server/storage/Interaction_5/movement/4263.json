@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2640",
+      "description": "continuing to serve customers at the counter (taking a short break) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        41
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2640",
+      "description": "continuing to study physics at Oak Hill College (taking a break to stretch and rest her eyes) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcc2\ud83d\udd16",
+      "description": "continuing to study in the Oak Hill College library (organizing his sources and citations) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:50:30"
+  }
+}

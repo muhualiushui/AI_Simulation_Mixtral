@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller discussing helping each other with Valentine's Day party decorations, planning to meet at the cafe tomorrow at 3pm @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm so glad you're excited about the Valentine's Day party. I was thinking, would you like to help me with some of the decorations?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help with the decorations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I was thinking we could meet here at the cafe tomorrow at 3pm to work on the decorations. Would that work for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, I'll see you then!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        45
+      ],
+      "pronunciatio": "\ufffd d",
+      "description": "eating lunch at Oak Hill College (1) Maria is purchasing lunch from the cafeteria) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller discussing helping each other with Valentine's Day party decorations, planning to meet at the cafe tomorrow at 3pm @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm so glad you're excited about the Valentine's Day party. I was thinking, would you like to help me with some of the decorations?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help with the decorations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I was thinking we could meet here at the cafe tomorrow at 3pm to work on the decorations. Would that work for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, I'll see you then!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:01:20"
+  }
+}

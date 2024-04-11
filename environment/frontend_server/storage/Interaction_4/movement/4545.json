@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83c\udf82",
+      "description": "taking a lunch break (calling the bakery to order a cake for the Valentine's Day party) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf72\u2795\ud83d\ude34",
+      "description": "having lunch (taking a short break from studying to enjoy her lunch) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83d\udcf1",
+      "description": "eating lunch (taking a short break from eating to check his phone) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:37:30"
+  }
+}

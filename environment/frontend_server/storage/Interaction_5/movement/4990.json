@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\ude0a",
+      "description": "continuing to serve customers at the counter (engaging with customers and ensuring they feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciatio": "\ud83e\udd43\ud83d\udc8b",
+      "description": "eating lunch at Oak Hill College (taking a sip of her drink) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "discussing Valentine's Day party plans with Isabella Rodriguez at Hobbs Cafe (finalizing the Valentine's Day party plans with Isabella) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:51:40"
+  }
+}
