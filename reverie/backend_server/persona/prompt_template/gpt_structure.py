@@ -37,7 +37,7 @@ def ChatGPT_single_request(prompt):
 
 # ALL changed from GPT--------------------------------------------------------------------------------
 
-# 1 for Mixtral, 2 for Claude
+# 1 for Mixtral, 2 for Claude, 3 for Mistral
 def LLM(prompt, Model=1): 
   """
   Given a prompt and a dictionary of GPT parameters, make a request to OpenAI
@@ -50,10 +50,10 @@ def LLM(prompt, Model=1):
   temp_sleep()
   try: 
     prompt="In the follwoing task, give answer only, no explaination! don't be verbose! \n"+prompt
-    if Model==1:
-      output= (pt.send(prompt)["content"]).rstrip()
-    elif Model==2:
+    if Model==2:
       output= (pt.Claude_3(prompt).content[0].text).rstrip()
+    else:
+      output= (pt.send(prompt,Model)["content"]).rstrip()
     return output.strip()
   
   except: 
@@ -90,7 +90,8 @@ def GPT4_safe_generate_response(prompt,
                                    fail_safe_response="error",
                                    func_validate=None,
                                    func_clean_up=None,
-                                   verbose=False): 
+                                   verbose=False,
+                                   model=1): 
   prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
   prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
   prompt += "Example output json:\n"
@@ -103,7 +104,7 @@ def GPT4_safe_generate_response(prompt,
   for i in range(repeat): 
 
     try: 
-      curr_gpt_response = LLM(prompt).strip()
+      curr_gpt_response = LLM(prompt,Model=model).strip()
       end_index = curr_gpt_response.rfind('}') + 1
       curr_gpt_response = curr_gpt_response[:end_index]
       curr_gpt_response = json.loads(curr_gpt_response)["output"]
@@ -129,7 +130,8 @@ def ChatGPT_safe_generate_response(prompt,
                                    fail_safe_response="error",
                                    func_validate=None,
                                    func_clean_up=None,
-                                   verbose=False): 
+                                   verbose=False,
+                                   model=1): 
   # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
   prompt = '"""\n' + prompt + '\n"""\n'
   prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
@@ -143,7 +145,7 @@ def ChatGPT_safe_generate_response(prompt,
   for i in range(repeat): 
 
     try: 
-      curr_gpt_response = LLM(prompt).strip()
+      curr_gpt_response = LLM(prompt,Model=model).strip()
       end_index = curr_gpt_response.rfind('}') + 1
       curr_gpt_response = curr_gpt_response[:end_index]
       curr_gpt_response = json.loads(curr_gpt_response)["output"]
@@ -171,14 +173,15 @@ def ChatGPT_safe_generate_response_OLD(prompt,
                                    fail_safe_response="error",
                                    func_validate=None,
                                    func_clean_up=None,
-                                   verbose=False): 
+                                   verbose=False,
+                                   model=1): 
   if verbose: 
     print ("CHAT GPT PROMPT")
     print (prompt)
 
   for i in range(repeat): 
     try: 
-      curr_gpt_response = LLM(prompt).strip()
+      curr_gpt_response = LLM(prompt,Model=model).strip()
       if func_validate(curr_gpt_response, prompt=prompt): 
         return func_clean_up(curr_gpt_response, prompt=prompt)
       if verbose: 
@@ -250,12 +253,13 @@ def safe_generate_response(prompt,
                            fail_safe_response="error",
                            func_validate=None,
                            func_clean_up=None,
-                           verbose=False): 
+                           verbose=False,
+                           model=1): 
   if verbose: 
     print (prompt)
 
   for i in range(repeat): 
-    curr_gpt_response = LLM(prompt)
+    curr_gpt_response = LLM(prompt,Model=model)
     if func_validate(curr_gpt_response,prompt=prompt): 
       print("PASS")
       return func_clean_up(curr_gpt_response,prompt=prompt)

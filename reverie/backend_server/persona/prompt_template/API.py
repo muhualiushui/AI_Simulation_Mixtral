@@ -3,11 +3,12 @@ import requests
 import os
 import anthropic
 from markdown import Markdown
-def send(query):
+def send(query, model):
     try:
-        
-        # url = "https://llama.k8s-gosha.atlas.illinois.edu/completion" # for mistral
-        url="https://mixtral.k8s-gosha.atlas.illinois.edu/completion" # for mixtral (better version)
+        if model == 3:
+            url = "https://llama.k8s-gosha.atlas.illinois.edu/completion" # for mistral
+        elif model == 1:
+            url="https://mixtral.k8s-gosha.atlas.illinois.edu/completion" # for mixtral (better version)
 
         myobj = {
             "prompt": "<s>[INST]"+query+"[/INST]",
