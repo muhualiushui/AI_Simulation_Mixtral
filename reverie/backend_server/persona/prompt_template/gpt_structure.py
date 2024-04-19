@@ -22,7 +22,7 @@ from utils import *
 
 # openai.api_key = openai_api_key
 
-def temp_sleep(seconds=0.1):
+def temp_sleep(seconds=15):
   time.sleep(seconds)
 
 def ChatGPT_single_request(prompt): 
@@ -48,12 +48,13 @@ def LLM(prompt, Model=1):
     a str of Mixtral's response. 
   """
   temp_sleep()
+  Model=2
   try: 
     prompt="In the follwoing task, give answer only, no explaination! don't be verbose! \n"+prompt
     if Model==2:
       output= (pt.Claude_3(prompt).content[0].text).rstrip()
     else:
-      output= (pt.send(prompt,Model)["content"]).rstrip()
+      output= (pt.send(prompt,1)["content"]).rstrip()
     return output.strip()
   
   except: 
@@ -83,55 +84,58 @@ def LLM(prompt, Model=1):
 #     return "Lama ERROR"
 # ----------------------------------------------------------------------------------------------------------------
 
-def GPT4_safe_generate_response(prompt, 
-                                   example_output,
-                                   special_instruction,
-                                   repeat=3,
-                                   fail_safe_response="error",
-                                   func_validate=None,
-                                   func_clean_up=None,
-                                   verbose=False,
-                                   model=1): 
-  prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
-  prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
-  prompt += "Example output json:\n"
-  prompt += '{"output": "' + str(example_output) + '"}'
+# def GPT4_safe_generate_response(prompt, 
+#                                    example_output,
+#                                    special_instruction,
+#                                    repeat=3,
+#                                    fail_safe_response="error",
+#                                    func_validate=None,
+#                                    func_clean_up=None,
+#                                    verbose=False,
+#                                    model=1): 
+#   prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
+#   prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
+#   prompt += "Example output json:\n"
+#   prompt += '{"output": "' + str(example_output) + '"}'
 
-  if verbose: 
-    print ("CHAT GPT PROMPT")
-    print (prompt)
+#   if verbose: 
+#     print ("CHAT GPT PROMPT")
+#     print (prompt)
 
-  for i in range(repeat): 
+#   for i in range(repeat): 
 
-    try: 
-      curr_gpt_response = LLM(prompt,Model=model).strip()
-      end_index = curr_gpt_response.rfind('}') + 1
-      curr_gpt_response = curr_gpt_response[:end_index]
-      curr_gpt_response = json.loads(curr_gpt_response)["output"]
+#     try: 
+#       if i>2:
+#         model=1
+#       curr_gpt_response = LLM(prompt,Model=model).strip()
+#       end_index = curr_gpt_response.rfind('}') + 1
+#       curr_gpt_response = curr_gpt_response[:end_index]
+#       curr_gpt_response = json.loads(curr_gpt_response)["output"]
       
-      if func_validate(curr_gpt_response, prompt=prompt): 
-        return func_clean_up(curr_gpt_response, prompt=prompt)
+#       if func_validate(curr_gpt_response, prompt=prompt): 
+#         return func_clean_up(curr_gpt_response, prompt=prompt)
       
-      if verbose: 
-        print ("---- repeat count: \n", i, curr_gpt_response)
-        print (curr_gpt_response)
-        print ("~~~~")
+#       if verbose: 
+#         print ("---- repeat count: \n", i, curr_gpt_response)
+#         print (curr_gpt_response)
+#         print ("~~~~")
 
-    except: 
-      pass
+#     except: 
+#       pass
 
-  return False
+#   return False
 
 
 def ChatGPT_safe_generate_response(prompt, 
                                    example_output,
                                    special_instruction,
-                                   repeat=3,
+                                   repeat=5,
                                    fail_safe_response="error",
                                    func_validate=None,
                                    func_clean_up=None,
                                    verbose=False,
                                    model=1): 
+
   # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
   prompt = '"""\n' + prompt + '\n"""\n'
   prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
@@ -145,6 +149,8 @@ def ChatGPT_safe_generate_response(prompt,
   for i in range(repeat): 
 
     try: 
+      if i>2:
+        model=1
       curr_gpt_response = LLM(prompt,Model=model).strip()
       end_index = curr_gpt_response.rfind('}') + 1
       curr_gpt_response = curr_gpt_response[:end_index]
@@ -181,6 +187,8 @@ def ChatGPT_safe_generate_response_OLD(prompt,
 
   for i in range(repeat): 
     try: 
+      if i>2:
+        model=1
       curr_gpt_response = LLM(prompt,Model=model).strip()
       if func_validate(curr_gpt_response, prompt=prompt): 
         return func_clean_up(curr_gpt_response, prompt=prompt)
@@ -259,9 +267,12 @@ def safe_generate_response(prompt,
     print (prompt)
 
   for i in range(repeat): 
+    if i>2:
+      model=1
     curr_gpt_response = LLM(prompt,Model=model)
+    print("Detect:----------------------------------",curr_gpt_response)
     if func_validate(curr_gpt_response,prompt=prompt): 
-      print("PASS")
+      print("PASS") 
       return func_clean_up(curr_gpt_response,prompt=prompt)
     if verbose: 
       print ("---- repeat count: ", i, curr_gpt_response)

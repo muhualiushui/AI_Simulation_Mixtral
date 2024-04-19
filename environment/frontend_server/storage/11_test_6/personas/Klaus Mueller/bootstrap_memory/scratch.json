@@ -1,0 +1,436 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:15:00",
+  "curr_tile": [
+    122,
+    24
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is discussing Valentine's Day party with Isabella Rodriguez in morning and writing a research paper on the effects of gentrification in low-income communities in afternoon at Hobbs Cafe",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 145,
+  "importance_ele_n": 4,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and starting his morning routine (1) Klaus is stretching and waking up his body)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (using the bathroom and washing his face)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (making himself a cup of coffee)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (eating a quick breakfast, such as yogurt and granola)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (getting dressed in comfortable clothes for a day of writing)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (double-checking that he has his laptop, notebook, and other necessary materials for writing)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (heading out the door to walk to the library at Oak Hill College)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (1) Klaus is brushing his teeth)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (washing his face)",
+      5
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (getting dressed)",
+      10
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (packing his bag with laptop and notebooks)",
+      10
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (eating a quick breakfast)",
+      10
+    ],
+    [
+      "going to the library at Oak Hill College to start writing (walking to the bus stop)",
+      20
+    ],
+    [
+      "continuing to write in the library at Oak Hill College (1) Klaus is reading articles related to gentrification)",
+      10
+    ],
+    [
+      "continuing to write in the library at Oak Hill College (outlining the structure of his research paper)",
+      15
+    ],
+    [
+      "continuing to write in the library at Oak Hill College (writing the introduction of his research paper)",
+      15
+    ],
+    [
+      "continuing to write in the library at Oak Hill College (taking a short break to stretch)",
+      5
+    ],
+    [
+      "continuing to write in the library at Oak Hill College (writing the literature review section of his research paper)",
+      15
+    ],
+    [
+      "writing in the library at Oak Hill College (1) Klaus is reviewing his research notes)",
+      15
+    ],
+    [
+      "writing in the library at Oak Hill College (outlining his paper)",
+      20
+    ],
+    [
+      "writing in the library at Oak Hill College (writing the introduction of his paper)",
+      20
+    ],
+    [
+      "writing in the library at Oak Hill College (taking a short break to rest his eyes)",
+      10
+    ],
+    [
+      "writing in the library at Oak Hill College (writing the body of his paper)",
+      30
+    ],
+    [
+      "writing in the library at Oak Hill College (proofreading what he has written so far)",
+      25
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing in the library at Oak Hill College",
+      120
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing in the library at Oak Hill College.\n[(ID:864z7H) Monday February 13 -- 07:00 PM] Activity: Klaus is having dinner at Hobbs Cafe.\n[(ID:PpKyZ2) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write in the library at Oak Hill College.\n[(ID:F7Ws6B) Monday February 13 -- 09:00 PM] Activity: Klaus is going to sleep around 11:00 pm",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm\n[(ID:0k7yY3) Monday February 13 -- 07:00 PM] Activity: Klaus is having dinner at Hobbs Cafe\n[(ID:w5ZST9) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm.\n[(ID:sCVa7v) Monday February 13 -- 10:00 PM] Activity: Klaus is preparing to go to sleep around 11:00 pm",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and starting his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College to start writing",
+      60
+    ],
+    [
+      "continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "writing in the library at Oak Hill College",
+      120
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing in the library at Oak Hill College",
+      120
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing in the library at Oak Hill College.\n[(ID:864z7H) Monday February 13 -- 07:00 PM] Activity: Klaus is having dinner at Hobbs Cafe.\n[(ID:PpKyZ2) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write in the library at Oak Hill College.\n[(ID:F7Ws6B) Monday February 13 -- 09:00 PM] Activity: Klaus is going to sleep around 11:00 pm",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm\n[(ID:0k7yY3) Monday February 13 -- 07:00 PM] Activity: Klaus is having dinner at Hobbs Cafe\n[(ID:w5ZST9) Monday February 13 -- 08:00 PM] Activity: Klaus is continuing to write in the library at Oak Hill College",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm.\n[(ID:sCVa7v) Monday February 13 -- 10:00 PM] Activity: Klaus is preparing to go to sleep around 11:00 pm",
+      60
+    ],
+    [
+      "preparing to go to sleep around 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Oak Hill College:library:library table",
+  "act_start_time": "February 13, 2023, 10:00:00",
+  "act_duration": 15,
+  "act_description": "writing in the library at Oak Hill College (1) Klaus is reviewing his research notes)",
+  "act_pronunciatio": "\ud83d\udcaa\ud83c\udfcb\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "is",
+    "1"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ufffd d",
+  "act_obj_event": [
+    "library table",
+    "be used",
+    "not applicable"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

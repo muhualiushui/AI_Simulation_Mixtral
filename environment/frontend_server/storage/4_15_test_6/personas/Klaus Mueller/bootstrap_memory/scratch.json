@@ -1,0 +1,298 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:05:00",
+  "curr_tile": [
+    122,
+    49
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is discussing Valentine's Day party with Isabella Rodriguez in morning and writing a research paper on the effects of gentrification in low-income communities in afternoon at Hobbs Cafe",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 85,
+  "importance_ele_n": 45,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "Discuss Valentine's Day party with Isabella Rodriguez at 10:00 am",
+    "Go to Oak Hill College library and study from 11:00 am to 1:00 pm",
+    "Have lunch at Hobbs Cafe at 1:00 pm",
+    "Write a research paper on the effects of gentrification in the afternoon from 2:00 pm to 5:00 pm",
+    "Have dinner at 5:00 pm",
+    "Continue working on the research paper in the evening, if needed"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (1) Klaus is waking up and stretching)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (using the restroom and washing his face)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (preparing breakfast)",
+      20
+    ],
+    [
+      "heading to Oak Hill College (1) Klaus is preparing breakfast)",
+      15
+    ],
+    [
+      "heading to Oak Hill College (getting dressed for the day)",
+      30
+    ],
+    [
+      "heading to Oak Hill College (packing his backpack with textbooks and materials)",
+      15
+    ],
+    [
+      "attending his sociology class at Oak Hill College (1) Klaus is arriving at the classroom and getting seated)",
+      5
+    ],
+    [
+      "attending his sociology class at Oak Hill College (taking out his notebook and preparing to take notes)",
+      5
+    ],
+    [
+      "attending his sociology class at Oak Hill College (listening to the professor's lecture on sociological theories)",
+      30
+    ],
+    [
+      "attending his sociology class at Oak Hill College (asking a clarifying question about the material)",
+      5
+    ],
+    [
+      "attending his sociology class at Oak Hill College (taking additional notes on the key concepts covered)",
+      10
+    ],
+    [
+      "attending his sociology class at Oak Hill College (packing up his materials as the class ends)",
+      5
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (1) Klaus is greeting Isabella and discussing the Valentine's Day party plans)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (listening to Isabella's ideas for the party)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (suggesting additional activities for the party)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (Isabella are coordinating tasks for the party)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (finalizing the details with Isabella)",
+      10
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez (thanking Isabella and departing)",
+      10
+    ],
+    [
+      "studying in the Oak Hill College library",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing a research paper on the effects of gentrification at Hobbs Cafe",
+      120
+    ],
+    [
+      "continuing to write a research paper on the effects of gentrification at Hobbs Cafe",
+      60
+    ],
+    [
+      "Continuing to write a research paper on the effects of gentrification at Hobbs Cafe",
+      60
+    ],
+    [
+      "having dinner at 5:00 pm",
+      60
+    ],
+    [
+      "Continuing to write a research paper on the effects of gentrification at home in the evening",
+      360
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "heading to Oak Hill College",
+      60
+    ],
+    [
+      "attending his sociology class at Oak Hill College",
+      60
+    ],
+    [
+      "discussing Valentine's Day party with Isabella Rodriguez",
+      60
+    ],
+    [
+      "studying in the Oak Hill College library",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "writing a research paper on the effects of gentrification at Hobbs Cafe",
+      120
+    ],
+    [
+      "continuing to write a research paper on the effects of gentrification at Hobbs Cafe",
+      60
+    ],
+    [
+      "Continuing to write a research paper on the effects of gentrification at Hobbs Cafe",
+      60
+    ],
+    [
+      "having dinner at 5:00 pm",
+      60
+    ],
+    [
+      "Continuing to write a research paper on the effects of gentrification at home in the evening",
+      360
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 09:00:00",
+  "act_duration": 5,
+  "act_description": "attending his sociology class at Oak Hill College (1) Klaus is arriving at the classroom and getting seated)",
+  "act_pronunciatio": "1\ufe0f\u20e3",
+  "act_event": [
+    "Klaus Mueller",
+    "Klaus Mueller",
+    "is"
+  ],
+  "act_obj_description": "being used by Klaus Mueller",
+  "act_obj_pronunciatio": "\ud83e\udde8\ud83e\udd16",
+  "act_obj_event": [
+    "common room table",
+    "common room table",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

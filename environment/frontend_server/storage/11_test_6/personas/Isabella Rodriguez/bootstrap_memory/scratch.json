@@ -1,0 +1,376 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:15:00",
+  "curr_tile": [
+    78,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 103,
+  "importance_ele_n": 29,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "Wake up and complete morning routine at 6:00 am",
+    "Open Hobbs Cafe at 8:00 am",
+    "Work at the counter until 8:00 pm",
+    "Close Hobbs Cafe at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine (washing her face)",
+      10
+    ],
+    [
+      "completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "completing her morning routine (taking a shower)",
+      20
+    ],
+    [
+      "completing her morning routine (blow-drying her hair)",
+      10
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing her morning routine (preparing breakfast)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (1) Isabella is turning on the lights and opening the front door of Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (starting the coffee machines and setting up the counter area)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (preparing the pastry display and setting out menus)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (checking the inventory of coffee beans and other supplies)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (turning on the music and making sure the seating area is clean and welcoming)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (preparing the cash register and starting the point-of-sale system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (reviewing the specials of the day and making sure they are prominently displayed)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (putting on her apron and getting ready to greet customers as they arrive)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (taking a deep breath and getting into hosting mode, eager to make sure all customers feel welcome and have a great experience at Hobbs Cafe) (1) Isabella is turning on the lights and opening the front door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (taking a deep breath and getting into hosting mode, eager to make sure all customers feel welcome and have a great experience at Hobbs Cafe) (setting up tables and chairs for customers)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe (taking a deep breath and getting into hosting mode, eager to make sure all customers feel welcome and have a great experience at Hobbs Cafe) (preparing coffee and tea for the menu)",
+      20
+    ],
+    [
+      "opening Hobbs Cafe (taking a deep breath and getting into hosting mode, eager to make sure all customers feel welcome and have a great experience at Hobbs Cafe) (cooking pastries and sandwiches for the cafe)",
+      25
+    ],
+    [
+      "serving customers at Hobbs Cafe (1) Isabella is taking customer orders at the counter)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (making drinks for customers)",
+      20
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing food for customers)",
+      20
+    ],
+    [
+      "serving customers at Hobbs Cafe (cleaning tables and countertops)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (restocking supplies)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (chatting with customers and making them feel welcome)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (processing payments from customers)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (making more drinks for customers)",
+      20
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing more food for customers)",
+      20
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking a short break)",
+      10
+    ],
+    [
+      "serving customers at Hobbs Cafe (continuing to take customer orders at the counter)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (making more drinks and food for customers)",
+      40
+    ],
+    [
+      "serving customers at Hobbs Cafe (cleaning up after customers leave)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (processing any remaining payments from customers)",
+      10
+    ],
+    [
+      "serving customers at Hobbs Cafe (finishing up any last-minute tasks before closing the cafe)",
+      10
+    ],
+    [
+      "making preparations for the Valentine's Day party",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      300
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party at Hobbs Cafe",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe",
+      120
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      300
+    ],
+    [
+      "making preparations for the Valentine's Day party",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      300
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for the Valentine's Day party at Hobbs Cafe",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:shelf",
+  "act_start_time": "February 13, 2023, 10:10:00",
+  "act_duration": 15,
+  "act_description": "serving customers at Hobbs Cafe (cleaning tables and countertops)",
+  "act_pronunciatio": "\ud83e\uddf9\ufffdl",
+  "act_event": [
+    "Isabella Rodriguez",
+    "clean",
+    "(tables or countertops"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83e\udd1d\ufe0f",
+  "act_obj_event": [
+    "shelf",
+    "be used",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

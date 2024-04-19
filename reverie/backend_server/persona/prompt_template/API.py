@@ -31,7 +31,8 @@ def send(query, model):
 # Claude3 API
 def Claude_3(query):
     client = anthropic.Anthropic(
-        api_key=os.environ["ANTHROPIC_API_KEY"],
+        # api_key=os.environ["ANTHROPIC_API_KEY"],
+        api_key="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",
     )
     message = client.messages.create(
         model="claude-3-haiku-20240307",
