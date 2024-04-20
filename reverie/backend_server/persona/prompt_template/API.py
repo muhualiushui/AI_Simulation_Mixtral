@@ -32,7 +32,7 @@ def send(query, model):
 def Claude_3(query):
     client = anthropic.Anthropic(
         # api_key=os.environ["ANTHROPIC_API_KEY"],
-        api_key="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",
+        api_key="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",
     )
     message = client.messages.create(
         model="claude-3-haiku-20240307",
@@ -41,6 +41,5 @@ def Claude_3(query):
             {"role": "user", "content": query}
         ]
     )
-    print(message)
     return message
 

@@ -1,0 +1,430 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:05:00",
+  "curr_tile": [
+    78,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 101,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter until 8:00 pm",
+    "close the cafe at 8:00 pm",
+    "go to bed around 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (1) Isabella is getting out of bed)",
+      5
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (picking out her outfit for the day)",
+      5
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (making herself a cup of coffee)",
+      5
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (reviewing her schedule and to-do list for the day)",
+      10
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (doing a quick yoga routine)",
+      10
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (packing her lunch for the day)",
+      10
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine (locking up her apartment and heading to the cafe)",
+      5
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (1) Isabella is unlocking the cafe and turning on the lights)",
+      5
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (turning on the coffee machines and preparing the pastries)",
+      10
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (counting the cash drawer and preparing the register)",
+      10
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (putting out the cafe's menu and setting up the tables and chairs)",
+      15
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (checking the inventory and making a list of supplies to order)",
+      10
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day (greeting the first customers and welcoming them to the cafe)",
+      10
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe (1) Isabella is turning on the cafe equipment and checking inventory)",
+      10
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe (preparing the cafe counter and setting up the register)",
+      10
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe (greeting and welcoming customers as they arrive)",
+      15
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe (taking orders and processing payments)",
+      20
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe (ensuring the cafe is clean and tidy)",
+      5
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (1) Isabella is greeting customers and welcoming them to the cafe)",
+      5
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (taking customer orders)",
+      20
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (preparing and serving coffee, tea, and light snacks to customers)",
+      20
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (checking in with customers to ensure they are satisfied)",
+      10
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (cleaning and preparing the counter for the next hour)",
+      5
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (1) Isabella is taking orders from customers)",
+      10
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (preparing and serving coffee and food items)",
+      15
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (checking on customer satisfaction)",
+      5
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (restocking supplies)",
+      5
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (ringing up customers)",
+      10
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (wiping down tables and counters)",
+      5
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (responding to customer questions)",
+      5
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter (preparing the next set of orders)",
+      5
+    ],
+    [
+      "[(ID:3f8Ypy) Monday February 13 -- 11:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:9wRUa0) Monday February 13 -- 12:00 PM] Activity: Isabella is taking her lunch break",
+      60
+    ],
+    [
+      "[(ID:CiWmlj) Monday February 13 -- 01:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:fdTtw3) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:Zg9TeJ) Monday February 13 -- 03:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:hiGjEh) Monday February 13 -- 04:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:0AQMru) Monday February 13 -- 05:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:ezrTtK) Monday February 13 -- 06:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:KuyzYY) Monday February 13 -- 07:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:PJyiVD) Monday February 13 -- 08:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:l4D8ww) Monday February 13 -- 09:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:nZLz4U) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing to close Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "[(ID:FOEAdx) Monday February 13 -- 11:00 PM] Activity: Isabella is going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "[(ID:k04slx) Monday February 13 -- 06:00 AM] Activity: Isabella is waking up and completing her morning routine",
+      60
+    ],
+    [
+      "[(ID:cZUD78) Monday February 13 -- 07:00 AM] Activity: Isabella is opening Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "[(ID:SWTAtz) Monday February 13 -- 08:00 AM] Activity: Isabella is working at the counter of Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:OFVFHq) Monday February 13 -- 10:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:3f8Ypy) Monday February 13 -- 11:00 AM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:9wRUa0) Monday February 13 -- 12:00 PM] Activity: Isabella is taking her lunch break",
+      60
+    ],
+    [
+      "[(ID:CiWmlj) Monday February 13 -- 01:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:fdTtw3) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:Zg9TeJ) Monday February 13 -- 03:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:hiGjEh) Monday February 13 -- 04:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:0AQMru) Monday February 13 -- 05:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:ezrTtK) Monday February 13 -- 06:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:KuyzYY) Monday February 13 -- 07:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:PJyiVD) Monday February 13 -- 08:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:l4D8ww) Monday February 13 -- 09:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter",
+      60
+    ],
+    [
+      "[(ID:nZLz4U) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing to close Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "[(ID:FOEAdx) Monday February 13 -- 11:00 PM] Activity: Isabella is going to bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 09:05:00",
+  "act_duration": 20,
+  "act_description": "[(ID:NvTBDU) Monday February 13 -- 09:00 AM] Activity: Isabella is serving customers at the cafe counter (taking customer orders)",
+  "act_pronunciatio": "\ud83d\udccb\u270d\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "Isabella Rodriguez",
+    "is"
+  ],
+  "act_obj_description": "being used by Isabella Rodriguez to serve customers",
+  "act_obj_pronunciatio": "\ud83d\uded2\ud83e\uddd1\u200d",
+  "act_obj_event": [
+    "behind the cafe counter",
+    "behind the cafe counter",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      78,
+      17
+    ],
+    [
+      78,
+      18
+    ],
+    [
+      78,
+      19
+    ]
+  ]
+}
