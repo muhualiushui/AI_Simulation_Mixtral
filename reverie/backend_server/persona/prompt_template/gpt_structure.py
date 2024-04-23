@@ -51,7 +51,7 @@ def LLM(prompt, Model=1):
   Model=2
   try: 
     prompt="In the follwoing task, give answer only, no explaination! don't be verbose! \n"+prompt
-    if Model==1:
+    if Model==2:
       output= (pt.Claude_3(prompt).content[0].text).rstrip()
     else:
       output= (pt.send(prompt,1)["content"]).rstrip()

@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 11:24:30",
+  "curr_time": "February 13, 2023, 11:38:10",
   "curr_tile": [
-    123,
-    55
+    126,
+    54
   ],
   "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
   "name": "Maria Lopez",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 150,
-  "importance_trigger_curr": 142,
-  "importance_ele_n": 6,
+  "importance_trigger_curr": 137,
+  "importance_ele_n": 8,
   "thought_count": 5,
   "daily_req": [
     "wake up and complete the morning routine at 9:00 am"
@@ -242,6 +242,10 @@
     [
       "sleeping",
       0
+    ],
+    [
+      "sleeping",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -310,22 +314,22 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
-  "act_start_time": "February 13, 2023, 11:15:00",
-  "act_duration": 20,
-  "act_description": "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (working on practice problems)",
-  "act_pronunciatio": "\ud83d\udcbb\ud83d\udc68\u200d",
+  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+  "act_start_time": "February 13, 2023, 11:35:00",
+  "act_duration": 10,
+  "act_description": "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (looking up concepts she is struggling with in the textbook)",
+  "act_pronunciatio": "\ud83d\udd0d\ud83d\udcda",
   "act_event": [
     "Maria Lopez",
-    "Maria Lopez",
-    "is"
+    "look up",
+    "concepts"
   ],
-  "act_obj_description": "being used by Maria Lopez",
-  "act_obj_pronunciatio": "\ud83e\udd2f\ud83e\udd37\u200d",
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83e\udd1d\ufe0f",
   "act_obj_event": [
-    "desk",
-    "desk",
-    "is"
+    "computer",
+    "be used",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,

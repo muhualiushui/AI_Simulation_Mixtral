@@ -1,0 +1,526 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:47:50",
+  "curr_tile": [
+    123,
+    26
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is discussing Valentine's Day party with Isabella Rodriguez in morning and writing a research paper on the effects of gentrification in low-income communities in afternoon at Hobbs Cafe",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 113,
+  "importance_ele_n": 16,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (1) Klaus is waking up)",
+      5
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (packing his bag for the library)",
+      10
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (checking his schedule for the day)",
+      5
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (leaving his apartment)",
+      5
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine (walking to the library)",
+      5
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (1) Klaus is walking to the librar)",
+      5
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (organizing his material)",
+      5
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (reviewing his research paper outlin)",
+      10
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (taking notes and making revision)",
+      15
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (packing up his material)",
+      5
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (exiting the librar)",
+      5
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College (walking back to his dor)",
+      15
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (1) Klaus is reviewing his research notes)",
+      10
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (outlining the structure of his research paper)",
+      10
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (writing the introduction section of his paper)",
+      10
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (researching additional sources for his paper)",
+      10
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (writing the body paragraphs of his paper)",
+      10
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library (reviewing and editing the work he has done so far)",
+      10
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library (1) Klaus is reviewing his research notes)",
+      10
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library (writing a draft of his research paper)",
+      20
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library (checking his sources and citations)",
+      10
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library (editing and refining his writing)",
+      15
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library (saving his work and preparing to leave)",
+      5
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans (1) Klaus is greeting Isabella and finding a table in the cafeteri)",
+      5
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans (Isabella are discussing the overall theme and vibe for the Valentine's Day part)",
+      10
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans (Isabella are brainstorming potential activities and decorations for the part)",
+      15
+    ],
+    [
+      "[ (on the way to Isabella are delegating tasks and responsibilities for the party plannin)",
+      0
+    ],
+    [
+      "[ (conversing about Isabella Rodriguez and Klaus Mueller <fill in> planning a Valentine's Day party with a photo booth, dance segment, and heart-themed decorations)",
+      13
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans (Isabella are finalizing the guest list and sending out invitation)",
+      10
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans (Isabella are wrapping up their meeting and planning to follow up late)",
+      10
+    ],
+    [
+      "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe (1) Klaus is ordering his lunch at the counter)",
+      5
+    ],
+    [
+      "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe (eating his lunch)",
+      40
+    ],
+    [
+      "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe (getting ready to leave)",
+      5
+    ],
+    [
+      "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe (exiting Hobbs Cafe)",
+      7
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (1) Klaus is reviewing his research notes)",
+      15
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (writing a paragraph for his research paper)",
+      15
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (reviewing his outline and making revisions)",
+      10
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (searching for additional sources to support his arguments)",
+      10
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (proofreading the section he just wrote)",
+      10
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (1) Klaus is reading through his research materials)",
+      10
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (outlining the next section of his research paper)",
+      15
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (writing the next section of his research paper)",
+      20
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (reviewing and editing the section he just wrote)",
+      10
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (saving his work and preparing to continue in the next hour)",
+      5
+    ],
+    [
+      "[(ID:Lclr7J) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:xon19L) Monday February 13 -- 04:00 PM] Activity: Klaus is taking a study break at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:xsRMqm) Monday February 13 -- 05:00 PM] Activity: Klaus is having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:DJwgFf) Monday February 13 -- 06:00 PM] Activity: Klaus is returning to Hobbs Cafe to continue working on his research paper",
+      60
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine",
+      60
+    ],
+    [
+      "[(ID:g57cbb) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to his dorm room to relax",
+      60
+    ],
+    [
+      "[(ID:fFZ1K5) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing in his dorm room",
+      60
+    ],
+    [
+      "Klaus is going to bed",
+      60
+    ],
+    [
+      "[(ID:asyf8H) Monday February 13 -- 11:00 PM] Activity: Klaus is sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine",
+      60
+    ],
+    [
+      "[(ID:UIKObz) Monday February 13 -- 08:00 AM] Activity: Klaus is going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "[(ID:xbWMWd) Monday February 13 -- 09:00 AM] Activity: Klaus is studying and working on his research paper at the library",
+      60
+    ],
+    [
+      "[(ID:sVsNkp) Monday February 13 -- 10:00 AM] Activity: Klaus is continuing to work on his research paper at the library",
+      60
+    ],
+    [
+      "[(ID:B9QdmG) Monday February 13 -- 11:00 AM] Activity: Klaus is meeting with Isabella Rodriguez at the campus cafeteria to discuss their Valentine's Day party plans",
+      60
+    ],
+    [
+      "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:Z84UXQ) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:Lclr7J) Monday February 13 -- 03:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:xon19L) Monday February 13 -- 04:00 PM] Activity: Klaus is taking a study break at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:xsRMqm) Monday February 13 -- 05:00 PM] Activity: Klaus is having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:DJwgFf) Monday February 13 -- 06:00 PM] Activity: Klaus is returning to Hobbs Cafe to continue working on his research paper",
+      60
+    ],
+    [
+      "[(ID:LRiV4k) Monday February 13 -- 07:00 AM] Activity: Klaus is waking up and completing his morning routine",
+      60
+    ],
+    [
+      "[(ID:g57cbb) Monday February 13 -- 08:00 PM] Activity: Klaus is returning to his dorm room to relax",
+      60
+    ],
+    [
+      "[(ID:fFZ1K5) Monday February 13 -- 09:00 PM] Activity: Klaus is relaxing in his dorm room",
+      60
+    ],
+    [
+      "Klaus is going to bed",
+      60
+    ],
+    [
+      "[(ID:asyf8H) Monday February 13 -- 11:00 PM] Activity: Klaus is sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Oak Hill College:library:bookshelf",
+  "act_start_time": "February 13, 2023, 13:43:00",
+  "act_duration": 10,
+  "act_description": "[(ID:WSZ0kX) Monday February 13 -- 01:00 PM] Activity: Klaus is continuing to work on his research paper at Hobbs Cafe (searching for additional sources to support his arguments)",
+  "act_pronunciatio": "\ud83d\udd0d\ud83d\udcda",
+  "act_event": [
+    "Klaus Mueller",
+    "Klaus Mueller",
+    "is"
+  ],
+  "act_obj_description": "being used by Klaus Mueller",
+  "act_obj_pronunciatio": "\ud83d\ude4d\u200d\u2642",
+  "act_obj_event": [
+    "bookshelf",
+    "bookshelf",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": 20
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

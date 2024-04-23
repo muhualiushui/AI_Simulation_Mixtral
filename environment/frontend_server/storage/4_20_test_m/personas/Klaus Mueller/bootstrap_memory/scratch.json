@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 11:24:30",
+  "curr_time": "February 13, 2023, 11:38:10",
   "curr_tile": [
-    76,
-    26
+    72,
+    23
   ],
   "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
   "name": "Klaus Mueller",
@@ -28,8 +28,8 @@
   "importance_w": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 150,
-  "importance_trigger_curr": 105,
-  "importance_ele_n": 21,
+  "importance_trigger_curr": 91,
+  "importance_ele_n": 23,
   "thought_count": 5,
   "daily_req": [
     "wake up and complete the morning routine at 7:00 am"
@@ -350,6 +350,10 @@
     [
       "sleeping",
       0
+    ],
+    [
+      "sleeping",
+      0
     ]
   ],
   "f_daily_schedule_hourly_org": [
@@ -426,107 +430,102 @@
       60
     ]
   ],
-  "act_address": "<persona> Isabella Rodriguez",
-  "act_start_time": "February 13, 2023, 11:24:20",
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 13, 2023, 11:38:00",
   "act_duration": 13,
-  "act_description": "conversing about Isabella Rodriguez and Klaus Mueller <fill in> planning a Valentine's Day party with a photo booth, dance segment, and heart-themed decorations",
-  "act_pronunciatio": "\ud83d\udcac",
+  "act_description": "[ (conversing about Isabella Rodriguez and Klaus Mueller <fill in> planning a Valentine's Day party with a photo booth, dance segment, and heart-themed decorations)",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udc8c",
   "act_event": [
     "Klaus Mueller",
-    "chat with",
-    "Isabella Rodriguez"
+    "Klaus Mueller",
+    "is"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ufffd d",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "desk",
+    "be used",
+    "\\_"
   ],
-  "chatting_with": "Isabella Rodriguez",
-  "chat": [
-    [
-      "Isabella Rodriguez",
-      "Hey Klaus, did you have any other ideas for the Valentine's Day party we should consider?"
-    ],
-    [
-      "Klaus Mueller",
-      "Yeah, I was thinking we could have a photo booth set up for people to take fun couple photos. And maybe we could do a little dance segment too, get everyone moving a bit."
-    ],
-    [
-      "Isabella Rodriguez",
-      "Those sound like great ideas! The photo booth and dance segment will definitely make the party more fun and interactive. Let's make sure to have lots of heart-themed decorations and music too. I'm really excited for this party!"
-    ],
-    [
-      "Klaus Mueller",
-      "I'm really excited too! I can't wait to see everything come together. Let's make sure to get the details finalized soon so we're all set."
-    ],
-    [
-      "Isabella Rodriguez",
-      "That's a great idea about the photo booth, Klaus. I think everyone will have a lot of fun with that. And the dance segment will get people up and moving. I'll make sure to order some fun heart-shaped balloons and streamers to really set the mood. I can't wait to see it all come together!"
-    ],
-    [
-      "Klaus Mueller",
-      "Sounds good, Isabella! I'll start looking into renting a photo booth and see what kinds of romantic music we can play. This is going to be the best Valentine's Day party ever."
-    ],
-    [
-      "Isabella Rodriguez",
-      "That's wonderful, Klaus! I'll make sure to get all the decorations and refreshments ready. I can't wait to see everyone have a great time at the party. Let me know if there's anything else I can do to help get ready."
-    ],
-    [
-      "Klaus Mueller",
-      "Sounds great, Isabella! Let's make sure to promote the party and get the word out so lots of people can come and join the fun."
-    ],
-    [
-      "Isabella Rodriguez",
-      "Absolutely, Klaus! I'll make sure to put up flyers around the cafe and post about it on social media. The more people that come, the merrier. I can't wait to see it all come together."
-    ],
-    [
-      "Klaus Mueller",
-      "That sounds great, Isabella! I'll start getting the word out too. I'm sure this is going to be an amazing party."
-    ],
-    [
-      "Isabella Rodriguez",
-      "That's wonderful, Klaus! I'm really looking forward to seeing everything come together. Let's make sure we have all the final details ironed out by the end of the week so we're fully prepared. I can't wait to celebrate with all our customers on Valentine's Day!"
-    ],
-    [
-      "Klaus Mueller",
-      "That sounds like a great plan, Isabella! I'll work on getting the word out and finalizing the details with you later this week. This is going to be an amazing party!"
-    ],
-    [
-      "Isabella Rodriguez",
-      "That's great, Klaus! I'm so glad we were able to come up with some fun ideas for the party. I'll start spreading the word and getting everything ready on my end. Looking forward to celebrating with everyone on Valentine's Day!"
-    ],
-    [
-      "Klaus Mueller",
-      "Sounds good, Isabella. I'll be sure to get the flyers up around campus and post about it on social media too. This is going to be a great party!"
-    ],
-    [
-      "Isabella Rodriguez",
-      "That's wonderful, Klaus! I can't wait to see everyone come out and celebrate with us. I'll make sure to get the caf\u00e9 all decked out with heart-themed decorations. This is going to be such a fun party!"
-    ],
-    [
-      "Klaus Mueller",
-      "I can't wait for the party, Isabella! We're going to make it a Valentine's Day celebration to remember."
-    ]
-  ],
+  "chatting_with": null,
+  "chat": null,
   "chatting_with_buffer": {
-    "Isabella Rodriguez": 800
+    "Isabella Rodriguez": 799
   },
-  "chatting_end_time": "February 13, 2023, 11:38:00",
-  "act_path_set": false,
+  "chatting_end_time": null,
+  "act_path_set": true,
   "planned_path": [
     [
-      76,
-      25
+      72,
+      22
+    ],
+    [
+      72,
+      21
+    ],
+    [
+      72,
+      20
+    ],
+    [
+      72,
+      19
+    ],
+    [
+      73,
+      19
+    ],
+    [
+      74,
+      19
+    ],
+    [
+      75,
+      19
     ],
     [
       76,
-      24
+      19
+    ],
+    [
+      77,
+      19
+    ],
+    [
+      78,
+      19
+    ],
+    [
+      78,
+      18
+    ],
+    [
+      78,
+      17
+    ],
+    [
+      78,
+      16
+    ],
+    [
+      77,
+      16
     ],
     [
       76,
-      23
+      16
+    ],
+    [
+      75,
+      16
+    ],
+    [
+      74,
+      16
+    ],
+    [
+      73,
+      16
     ]
   ]
 }
