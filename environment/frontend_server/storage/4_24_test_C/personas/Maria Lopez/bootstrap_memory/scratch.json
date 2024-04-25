@@ -1,0 +1,502 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:38:00",
+  "curr_tile": [
+    108,
+    23
+  ],
+  "daily_plan_req": "Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez visits Hobbs Cafe for studying and eating just about everyday, and talk with everyone she meets.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 150,
+  "importance_ele_n": 0,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (1) Maria is getting out of bed)",
+      5
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (making coffee)",
+      5
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (packing her bag for the day)",
+      10
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (checking her phone and social media)",
+      10
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine (heading out the door)",
+      5
+    ],
+    [
+      "[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe (1) Maria is ordering breakfast at the counter)",
+      5
+    ],
+    [
+      "[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe (eating her breakfast)",
+      40
+    ],
+    [
+      "[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe (chatting with other customers at Hobbs Cafe)",
+      15
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (1) Maria is taking out her physics textbook and notebook)",
+      5
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (reviewing her previous notes)",
+      10
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (working on practice problems)",
+      20
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (looking up concepts she is struggling with in the textbook)",
+      10
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (jotting down questions she wants to ask the professor)",
+      5
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (taking a short break to stretch and grab a snack)",
+      5
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe (reviewing her work and preparing for the next session)",
+      5
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (1) Maria is reviewing her physics textbook and notes)",
+      15
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (working on physics practice problems)",
+      15
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (taking a short break to get a snack and drink)",
+      5
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (discussing a physics concept with a classmate)",
+      15
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (summarizing key points from her study session)",
+      10
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (1) Maria is packing up her belongings and getting ready to leave Hobbs Cafe)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (walking out of Hobbs Cafe and heading towards the college campus)",
+      10
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (crossing the street and continuing to walk towards the college campus)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (arriving at the college campus and looking for the building for her physics lecture)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (entering the building and finding the classroom for her physics lecture)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (greeting her classmates and finding a seat in the classroom)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (setting up her laptop and materials for the physics lecture)",
+      5
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (waiting for the lecture to begin and reviewing her notes)",
+      10
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus (ready for the physics lecture to start)",
+      10
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (1) Maria is entering the lecture hall)",
+      5
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (finding a seat and getting settled)",
+      5
+    ],
+    [
+      "[ (on the way to taking out her notebook and pen)",
+      0
+    ],
+    [
+      "[ (conversing about <fill in> Maria Lopez and Klaus Mueller discussing Klaus's research on the effects of gentrification and arranging to meet for coffee to discuss it further)",
+      5
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (listening attentively to the lecture)",
+      35
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (asking a clarifying question)",
+      5
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (packing up her materials)",
+      5
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (1) Maria is greeting her study group members and taking a seat)",
+      5
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (discussing the physics concepts they are studying)",
+      15
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (working through practice problems with her group)",
+      20
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (asking questions and clarifying any confusion)",
+      10
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (summarizing the key takeaways from the study session)",
+      5
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus (thanking her group and preparing to leave)",
+      5
+    ],
+    [
+      "[(ID:rlZkTV) Monday February 13 -- 04:00 PM] Activity: Maria is returning to Hobbs Cafe to continue studying physics",
+      60
+    ],
+    [
+      "[(ID:zPrc6s) Monday February 13 -- 05:00 PM] Activity: Maria is enjoying a snack and relaxing at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:vicVJt) Monday February 13 -- 06:00 PM] Activity: Maria is preparing dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "Maria is eating dinner",
+      60
+    ],
+    [
+      "[(ID:76jdEl) Monday February 13 -- 08:00 PM] Activity: Maria is returning to Hobbs Cafe and preparing to start her Twitch stream",
+      60
+    ],
+    [
+      "[(ID:ofnUDQ) Monday February 13 -- 09:00 PM] Activity: Maria is streaming on Twitch",
+      60
+    ],
+    [
+      "[(ID:7DOHBj) Monday February 13 -- 10:00 PM] Activity: Maria is preparing for bed",
+      60
+    ],
+    [
+      "[(ID:fekZHJ) Monday February 13 -- 00:00 AM] Activity: Maria is sleeping\n[(ID:tBRjGm) Monday February 13 -- 01:00 AM] Activity: Maria is sleeping\n[(ID:xr7qxG) Monday February 13 -- 02:00 AM] Activity: Maria is sleeping\n[(ID:LVbWAB) Monday February 13 -- 03:00 AM] Activity: Maria is sleeping\n[(ID:P1tUxR) Monday February 13 -- 04:00 AM] Activity: Maria is sleeping\n[(ID:djeNvA) Monday February 13 -- 05:00 AM] Activity: Maria is sleeping\n[(ID:4eL9RK) Monday February 13 -- 06:00 AM] Activity: Maria is sleeping\n[(ID:etYbgm) Monday February 13 -- 07:00 AM] Activity: Maria is sleeping\n[(ID:oLYBmu) Monday February 13 -- 08:00 AM] Activity: Maria is sleeping\n[(ID:suSfM8) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine\n[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe\n[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe\n[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe\n[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus\n[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus\n[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus\n[(ID:rlZkTV) Monday February 13 -- 04:00 PM] Activity: Maria is returning to Hobbs Cafe to continue studying physics\n[(ID:zPrc6s) Monday February 13 -- 05:00 PM] Activity: Maria is enjoying a snack and relaxing at Hobbs Cafe\n[(ID:vicVJt) Monday February 13 -- 06:00 PM] Activity: Maria is preparing dinner at Hobbs Cafe\n[(ID:Hd65CZ) Monday February 13 -- 07:00 PM] Activity: Maria is eating dinner\n[(ID:76jdEl) Monday February 13 -- 08:00 PM] Activity: Maria is returning to Hobbs Cafe and preparing to start her Twitch stream\n[(ID:ofnUDQ) Monday February 13 -- 09:00 PM] Activity: Maria is streaming on Twitch\n[(ID:7DOHBj) Monday February 13 -- 10:00 PM] Activity: Maria is preparing for bed\n[(ID:j20bfM) Monday February 13 -- 11:00 PM] Activity: Maria is sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      540
+    ],
+    [
+      "[(ID:J3x83M) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine",
+      60
+    ],
+    [
+      "[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus",
+      60
+    ],
+    [
+      "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus",
+      60
+    ],
+    [
+      "[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus",
+      60
+    ],
+    [
+      "[(ID:rlZkTV) Monday February 13 -- 04:00 PM] Activity: Maria is returning to Hobbs Cafe to continue studying physics",
+      60
+    ],
+    [
+      "[(ID:zPrc6s) Monday February 13 -- 05:00 PM] Activity: Maria is enjoying a snack and relaxing at Hobbs Cafe",
+      60
+    ],
+    [
+      "[(ID:vicVJt) Monday February 13 -- 06:00 PM] Activity: Maria is preparing dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "Maria is eating dinner",
+      60
+    ],
+    [
+      "[(ID:76jdEl) Monday February 13 -- 08:00 PM] Activity: Maria is returning to Hobbs Cafe and preparing to start her Twitch stream",
+      60
+    ],
+    [
+      "[(ID:ofnUDQ) Monday February 13 -- 09:00 PM] Activity: Maria is streaming on Twitch",
+      60
+    ],
+    [
+      "[(ID:7DOHBj) Monday February 13 -- 10:00 PM] Activity: Maria is preparing for bed",
+      60
+    ],
+    [
+      "[(ID:fekZHJ) Monday February 13 -- 00:00 AM] Activity: Maria is sleeping\n[(ID:tBRjGm) Monday February 13 -- 01:00 AM] Activity: Maria is sleeping\n[(ID:xr7qxG) Monday February 13 -- 02:00 AM] Activity: Maria is sleeping\n[(ID:LVbWAB) Monday February 13 -- 03:00 AM] Activity: Maria is sleeping\n[(ID:P1tUxR) Monday February 13 -- 04:00 AM] Activity: Maria is sleeping\n[(ID:djeNvA) Monday February 13 -- 05:00 AM] Activity: Maria is sleeping\n[(ID:4eL9RK) Monday February 13 -- 06:00 AM] Activity: Maria is sleeping\n[(ID:etYbgm) Monday February 13 -- 07:00 AM] Activity: Maria is sleeping\n[(ID:oLYBmu) Monday February 13 -- 08:00 AM] Activity: Maria is sleeping\n[(ID:suSfM8) Monday February 13 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine\n[(ID:LVmTak) Monday February 13 -- 10:00 AM] Activity: Maria is eating breakfast at Hobbs Cafe\n[(ID:U2rFir) Monday February 13 -- 11:00 AM] Activity: Maria is studying physics at Hobbs Cafe\n[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe\n[(ID:vbOMYz) Monday February 13 -- 01:00 PM] Activity: Maria is leaving Hobbs Cafe and heading to the college campus\n[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus\n[(ID:BCcYFx) Monday February 13 -- 03:00 PM] Activity: Maria is attending a study group session for her physics class on campus\n[(ID:rlZkTV) Monday February 13 -- 04:00 PM] Activity: Maria is returning to Hobbs Cafe to continue studying physics\n[(ID:zPrc6s) Monday February 13 -- 05:00 PM] Activity: Maria is enjoying a snack and relaxing at Hobbs Cafe\n[(ID:vicVJt) Monday February 13 -- 06:00 PM] Activity: Maria is preparing dinner at Hobbs Cafe\n[(ID:Hd65CZ) Monday February 13 -- 07:00 PM] Activity: Maria is eating dinner\n[(ID:76jdEl) Monday February 13 -- 08:00 PM] Activity: Maria is returning to Hobbs Cafe and preparing to start her Twitch stream\n[(ID:ofnUDQ) Monday February 13 -- 09:00 PM] Activity: Maria is streaming on Twitch\n[(ID:7DOHBj) Monday February 13 -- 10:00 PM] Activity: Maria is preparing for bed\n[(ID:j20bfM) Monday February 13 -- 11:00 PM] Activity: Maria is sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Oak Hill College:classroom:classroom podium",
+  "act_start_time": "February 13, 2023, 14:18:00",
+  "act_duration": 35,
+  "act_description": "[(ID:iiQ7r1) Monday February 13 -- 02:00 PM] Activity: Maria is attending a physics lecture on campus (listening attentively to the lecture)",
+  "act_pronunciatio": "\ud83d\udc42\ud83d\udca1",
+  "act_event": [
+    "Maria Lopez",
+    "Maria Lopez",
+    "is"
+  ],
+  "act_obj_description": "being used by Maria Lopez",
+  "act_obj_pronunciatio": "\ud83d\ude4d\ud83c\udffb\u200d",
+  "act_obj_event": [
+    "classroom podium",
+    "classroom podium",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 645
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

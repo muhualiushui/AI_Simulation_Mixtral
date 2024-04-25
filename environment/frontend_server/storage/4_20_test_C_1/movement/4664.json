@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83c\udfe2",
+      "description": "[(ID:9wRUa0) Monday February 13 -- 12:00 PM] Activity: Isabella is taking her lunch break (cleaning up and getting ready to return to work) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83e\udde0",
+      "description": "[(ID:jZopfM) Monday February 13 -- 12:00 PM] Activity: Maria is continuing to study physics at Hobbs Cafe (summarizing key points from her study session) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeaa\ud83d\udeb6\u200d",
+      "description": "[(ID:tLLtZs) Monday February 13 -- 12:00 PM] Activity: Klaus is having lunch at Hobbs Cafe (exiting Hobbs Cafe) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:57:20"
+  }
+}

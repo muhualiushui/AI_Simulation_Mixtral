@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "[(ID:fdTtw3) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing to serve customers at the cafe counter (1) Isabella is serving customers at the cafe counter) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about <fill in> Maria Lopez and Klaus Mueller discussing Klaus's research on the effects of gentrification and arranging to meet for coffee to discuss it further @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Klaus, I noticed you're still working on your research. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's going well, thanks for asking! I'm making good progress on my paper about the effects of gentrification in low-income communities. How about you, how's your physics lecture going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great, I'm glad to hear you're making progress. Physics has been really interesting so far, we're covering some complex topics but I'm enjoying the challenge. Say, would you be interested in grabbing a coffee later and discussing your research more? I'd love to learn more about it."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, I'd be happy to discuss my research with you over coffee later. I'd enjoy getting your perspective on the topic."
+        ],
+        [
+          "Maria Lopez",
+          "That's wonderful, I'd love to learn more. What time works best for you to meet up?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we meet up at Hobbs Cafe around 4pm? That should give us enough time to chat before I have to head back and finish my paper."
+        ],
+        [
+          "Maria Lopez",
+          "Great, 4pm at Hobbs Cafe sounds perfect. I'll see you then!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about <fill in> Maria Lopez and Klaus Mueller discussing Klaus's research on the effects of gentrification and arranging to meet for coffee to discuss it further @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Klaus, I noticed you're still working on your research. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's going well, thanks for asking! I'm making good progress on my paper about the effects of gentrification in low-income communities. How about you, how's your physics lecture going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great, I'm glad to hear you're making progress. Physics has been really interesting so far, we're covering some complex topics but I'm enjoying the challenge. Say, would you be interested in grabbing a coffee later and discussing your research more? I'd love to learn more about it."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, I'd be happy to discuss my research with you over coffee later. I'd enjoy getting your perspective on the topic."
+        ],
+        [
+          "Maria Lopez",
+          "That's wonderful, I'd love to learn more. What time works best for you to meet up?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we meet up at Hobbs Cafe around 4pm? That should give us enough time to chat before I have to head back and finish my paper."
+        ],
+        [
+          "Maria Lopez",
+          "Great, 4pm at Hobbs Cafe sounds perfect. I'll see you then!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:12:00"
+  }
+}
